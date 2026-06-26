@@ -23,7 +23,7 @@ suppressPackageStartupMessages({
 # 0. USER SETTINGS
 # -----------------------------------------------------------------------------
 
-INPUT_FILE <- "data/raw-data/1.faune/all_clean_sp.csv"  # change if needed
+INPUT_FILE <- "data/all_clean_sp.csv"  # change if needed
 OUT_DIR <- "outputs_multitaxa_2024"
 
 TARGET_PROJECT <- "RMQS"

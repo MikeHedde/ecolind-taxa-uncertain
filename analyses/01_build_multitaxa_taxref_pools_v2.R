@@ -27,7 +27,7 @@ INPUT_DIR <- "outputs_multitaxa_2024"
 
 # Point to the complete TAXREF export from INPN/MNHN.
 # Both semicolon- and tab-delimited exports are supported.
-TAXREF_FILE <- "data/raw-data/TAXREFv17.txt"
+TAXREF_FILE <- "data/TAXREFv17.txt"
 
 REGIONAL_POOL_DIR <- "regional_pools"
 EXPERT_MAP_DIR <- "expert_confusion_maps"

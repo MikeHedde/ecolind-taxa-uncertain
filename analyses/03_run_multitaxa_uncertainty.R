@@ -33,7 +33,7 @@ suppressPackageStartupMessages({
 # -----------------------------------------------------------------------------
 
 INPUT_DIR <- "outputs_multitaxa_2024"
-ENV_FILE  <- "data/derived-data/all_env_variables.csv"
+ENV_FILE  <- "data/all_env_variables.csv"
 OUT_DIR   <- "outputs_multitaxa_2024/uncertainty_results"
 dir.create(OUT_DIR, showWarnings = FALSE, recursive = TRUE)
 dir.create(file.path(OUT_DIR, "per_assemblage"), showWarnings = FALSE, recursive = TRUE)
