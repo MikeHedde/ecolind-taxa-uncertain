@@ -1,0 +1,19 @@
+observed_taxon_unit,observed_cd_nom,observed_label,observed_genus,observed_family,cd_ref,accepted_name,genus,family,match_method,in_regional_pool,override_note,n_regional_candidates,n_alternative_candidates,has_alternative_candidate,assemblage_id
+species:cdnom:64859,64859,Glomeris marginata,Glomeris,Glomeridae,64859,Glomeris marginata,Glomeris,Glomeridae,cd_nom_alias,TRUE,NA,12,11,TRUE,diplopoda_pitfall
+species:cdnom:969672,969672,Cylindroiulus spinosus,Cylindroiulus,Julidae,NA,Cylindroiulus spinosus,Cylindroiulus,Julidae,unmatched,FALSE,NA,11,10,TRUE,diplopoda_pitfall
+species:cdnom:227641,227641,Julus scandinavius,Julus,Julidae,227641,Julus scandinavius,Julus,Julidae,cd_nom_alias,TRUE,NA,1,0,FALSE,diplopoda_pitfall
+species:cdnom:227676,227676,Tachypodoiulus niger,Tachypodoiulus,Julidae,227676,Tachypodoiulus niger,Tachypodoiulus,Julidae,cd_nom_alias,TRUE,NA,1,0,FALSE,diplopoda_pitfall
+species:cdnom:227692,227692,Brachydesmus superus,Brachydesmus,Polydesmidae,227692,Brachydesmus superus,Brachydesmus,Polydesmidae,cd_nom_alias,TRUE,NA,4,3,TRUE,diplopoda_pitfall
+species:cdnom:227628,227628,Cylindroiulus londinensis,Cylindroiulus,Julidae,227628,Cylindroiulus londinensis,Cylindroiulus,Julidae,cd_nom_alias,TRUE,NA,11,10,TRUE,diplopoda_pitfall
+species:cdnom:64877,64877,Polydesmus angustus,Polydesmus,Polydesmidae,64877,Polydesmus angustus,Polydesmus,Polydesmidae,cd_nom_alias,TRUE,NA,16,15,TRUE,diplopoda_pitfall
+species:cdnom:885344,885344,Polydesmus racovitzai,Polydesmus,Polydesmidae,885344,Polydesmus racovitzai,Polydesmus,Polydesmidae,cd_nom_alias,TRUE,NA,16,15,TRUE,diplopoda_pitfall
+species:cdnom:227623,227623,Cylindroiulus caeruleocinctus,Cylindroiulus,Julidae,227623,Cylindroiulus caeruleocinctus,Cylindroiulus,Julidae,cd_nom_alias,TRUE,NA,11,10,TRUE,diplopoda_pitfall
+species:cdnom:227621,227621,Brachyiulus pusillus,Brachyiulus,Julidae,227621,Brachyiulus pusillus,Brachyiulus,Julidae,cd_nom_alias,TRUE,NA,2,1,TRUE,diplopoda_pitfall
+species:cdnom:227446,227446,Glomeridella kervillei,Glomeridella,Glomeridellidae,227446,Glomeridella kervillei,Glomeridella,Glomeridellidae,cd_nom_alias,TRUE,NA,1,0,FALSE,diplopoda_pitfall
+species:cdnom:192835,192835,Glomeris intermedia,Glomeris,Glomeridae,227454,Glomeris intermedia,Glomeris,Glomeridae,accepted_binomial,TRUE,NA,12,11,TRUE,diplopoda_pitfall
+species:cdnom:227703,227703,Polydesmus inconstans,Polydesmus,Polydesmidae,227703,Polydesmus inconstans,Polydesmus,Polydesmidae,cd_nom_alias,TRUE,NA,16,15,TRUE,diplopoda_pitfall
+species:cdnom:227626,227626,Cylindroiulus latestriatus,Cylindroiulus,Julidae,227626,Cylindroiulus latestriatus,Cylindroiulus,Julidae,cd_nom_alias,TRUE,NA,11,10,TRUE,diplopoda_pitfall
+species:cdnom:227668,227668,Ommatoiulus sabulosus,Ommatoiulus,Julidae,227668,Ommatoiulus sabulosus,Ommatoiulus,Julidae,cd_nom_alias,TRUE,NA,7,6,TRUE,diplopoda_pitfall
+species:cdnom:227668,227668,Ommatoiulus sabulosus,Ommatoiulus,Julidae,227668,Ommatoiulus sabulosus,Ommatoiulus,Julidae,cd_nom_alias,TRUE,NA,7,6,TRUE,diplopoda_pitfall
+species:cdnom:227618,227618,Allajulus nitidus,Allajulus,Julidae,227618,Allajulus nitidus,Allajulus,Julidae,cd_nom_alias,TRUE,NA,1,0,FALSE,diplopoda_pitfall
+species:cdnom:227454,227454,Glomeris intermedia,Glomeris,Glomeridae,227454,Glomeris intermedia,Glomeris,Glomeridae,cd_nom_alias,TRUE,NA,12,11,TRUE,diplopoda_pitfall

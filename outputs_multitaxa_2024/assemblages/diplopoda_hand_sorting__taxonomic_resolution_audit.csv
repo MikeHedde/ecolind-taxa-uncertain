@@ -1,0 +1,5 @@
+assemblage_id,group_label,method,resolution,n_records,total_abundance,n_reported_names,n_stations_positive,abundance_share,record_share
+diplopoda_hand_sorting,Diplopoda,hand-sorting,family,15,25,4,10,0.08305647840531562,0.09036144578313253
+diplopoda_hand_sorting,Diplopoda,hand-sorting,genus,18,23,7,12,0.07641196013289037,0.10843373493975904
+diplopoda_hand_sorting,Diplopoda,hand-sorting,order,2,3,1,2,0.009966777408637873,0.012048192771084338
+diplopoda_hand_sorting,Diplopoda,hand-sorting,species,131,250,25,32,0.8305647840531561,0.7891566265060241

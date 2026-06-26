@@ -1,0 +1,4 @@
+assemblage_id,group_label,method,resolution,n_records,total_abundance,n_reported_names,n_stations_positive,abundance_share,record_share
+carabidae_pitfall,Carabidae,pitfall-trap,family,5,5,1,3,5.446029844243547e-4,5.446623093681918e-4
+carabidae_pitfall,Carabidae,pitfall-trap,genus,22,22,3,12,0.0023962531314671606,0.0023965141612200436
+carabidae_pitfall,Carabidae,pitfall-trap,species,9153,9154,131,63,0.9970591438841084,0.9970588235294118

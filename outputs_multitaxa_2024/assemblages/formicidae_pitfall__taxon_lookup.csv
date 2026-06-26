@@ -1,0 +1,57 @@
+taxon_unit_rtu,taxon_unit_species,taxon_unit_genus,taxon_unit_family,taxo_level,species_key,binomial,genus,family,order,class,valid_name,name
+species:cdnom:628325,species:cdnom:628325,genus:Tapinoma,family:Formicidae,species,cdnom:628325,Tapinoma madeirense,Tapinoma,Formicidae,Hymenoptera,Insecta,"Tapinoma madeirense Forel, 1895",Tapinoma madeirense
+species:cdnom:219406,species:cdnom:219406,genus:Messor,family:Formicidae,species,cdnom:219406,Messor barbarus,Messor,Formicidae,Hymenoptera,Insecta,"Messor barbarus (Linnaeus, 1767)",Messor barbarus
+genus:Tetramorium,NA,genus:Tetramorium,family:Formicidae,genus,NA,NA,Tetramorium,Formicidae,Hymenoptera,Insecta,"Tetramorium Mayr, 1855",Tetramorium
+species:cdnom:219350,species:cdnom:219350,genus:Tetramorium,family:Formicidae,species,cdnom:219350,Tetramorium forte,Tetramorium,Formicidae,Hymenoptera,Insecta,"Tetramorium forte Forel, 1904",Tetramorium forte
+species:cdnom:52779,species:cdnom:52779,genus:Camponotus,family:Formicidae,species,cdnom:52779,Camponotus aethiops,Camponotus,Formicidae,Hymenoptera,Insecta,"Camponotus aethiops (Latreille, 1798)",Camponotus aethiops
+species:cdnom:219519,species:cdnom:219519,genus:Camponotus,family:Formicidae,species,cdnom:219519,Camponotus piceus,Camponotus,Formicidae,Hymenoptera,Insecta,"Camponotus piceus (Leach, 1825)",Camponotus piceus
+species:cdnom:219505,species:cdnom:219505,genus:Formica,family:Formicidae,species,cdnom:219505,Formica gagates,Formica,Formicidae,Hymenoptera,Insecta,"Formica gagates Latreille, 1798",Formica gagates
+species:cdnom:52792,species:cdnom:52792,genus:Formica,family:Formicidae,species,cdnom:52792,Formica rufibarbis,Formica,Formicidae,Hymenoptera,Insecta,"Formica rufibarbis Fabricius, 1793",Formica rufibarbis
+species:cdnom:52816,species:cdnom:52816,genus:Lasius,family:Formicidae,species,cdnom:52816,Lasius emarginatus,Lasius,Formicidae,Hymenoptera,Insecta,"Lasius emarginatus (Olivier, 1792)",Lasius emarginatus
+species:cdnom:52788,species:cdnom:52788,genus:Formica,family:Formicidae,species,cdnom:52788,Formica cunicularia,Formica,Formicidae,Hymenoptera,Insecta,"Formica cunicularia Latreille, 1798",Formica cunicularia
+species:cdnom:264385,species:cdnom:264385,genus:Lasius,family:Formicidae,species,cdnom:264385,Lasius cinereus,Lasius,Formicidae,Hymenoptera,Insecta,"Lasius cinereus Seifert, 1992",Lasius cinereus
+genus:Messor,NA,genus:Messor,family:Formicidae,genus,NA,NA,Messor,Formicidae,Hymenoptera,Insecta,"Messor Forel, 1890",Messor
+species:cdnom:52812,species:cdnom:52812,genus:Crematogaster,family:Formicidae,species,cdnom:52812,Crematogaster sordidula,Crematogaster,Formicidae,Hymenoptera,Insecta,"Crematogaster sordidula (Nylander, 1849)",Crematogaster sordidula
+species:cdnom:264386,species:cdnom:264386,genus:Lasius,family:Formicidae,species,cdnom:264386,Lasius grandis,Lasius,Formicidae,Hymenoptera,Insecta,"Lasius grandis Forel, 1909",Lasius grandis
+species:cdnom:52820,species:cdnom:52820,genus:Pheidole,family:Formicidae,species,cdnom:52820,Pheidole pallidula,Pheidole,Formicidae,Hymenoptera,Insecta,"Pheidole pallidula (Nylander, 1849)",Pheidole pallidula
+species:cdnom:52822,species:cdnom:52822,genus:Plagiolepis,family:Formicidae,species,cdnom:52822,Plagiolepis pygmaea,Plagiolepis,Formicidae,Hymenoptera,Insecta,"Plagiolepis pygmaea (Latreille, 1798)",Plagiolepis pygmaea
+species:cdnom:938134,species:cdnom:938134,genus:Aphaenogaster,family:Formicidae,species,cdnom:938134,Aphaenogaster ichnusa,Aphaenogaster,Formicidae,Hymenoptera,Insecta,"Aphaenogaster ichnusa Santschi, 1925",Aphaenogaster ichnusa
+species:cdnom:52785,species:cdnom:52785,genus:Camponotus,family:Formicidae,species,cdnom:52785,Camponotus vagus,Camponotus,Formicidae,Hymenoptera,Insecta,"Camponotus vagus (Scopoli, 1763)",Camponotus vagus
+genus:Tapinoma,NA,genus:Tapinoma,family:Formicidae,genus,NA,NA,Tapinoma,Formicidae,Hymenoptera,Insecta,"Tapinoma Förster, 1850",Tapinoma
+species:cdnom:52790,species:cdnom:52790,genus:Formica,family:Formicidae,species,cdnom:52790,Formica pratensis,Formica,Formicidae,Hymenoptera,Insecta,"Formica pratensis Retzius, 1783",Formica pratensis
+species:cdnom:52808,species:cdnom:52808,genus:Myrmica,family:Formicidae,species,cdnom:52808,Myrmica ruginodis,Myrmica,Formicidae,Hymenoptera,Insecta,"Myrmica ruginodis Nylander, 1846",Myrmica ruginodis
+species:cdnom:219490,species:cdnom:219490,genus:Lasius,family:Formicidae,species,cdnom:219490,Lasius fuliginosus,Lasius,Formicidae,Hymenoptera,Insecta,"Lasius fuliginosus (Latreille, 1798)",Lasius fuliginosus
+species:cdnom:219396,species:cdnom:219396,genus:Myrmica,family:Formicidae,species,cdnom:219396,Myrmica sabuleti,Myrmica,Formicidae,Hymenoptera,Insecta,"Myrmica sabuleti Meinert, 1861",Myrmica sabuleti
+species:cdnom:52793,species:cdnom:52793,genus:Formica,family:Formicidae,species,cdnom:52793,Formica sanguinea,Formica,Formicidae,Hymenoptera,Insecta,"Formica sanguinea Latreille, 1798",Formica sanguinea
+species:cdnom:52809,species:cdnom:52809,genus:Myrmica,family:Formicidae,species,cdnom:52809,Myrmica scabrinodis,Myrmica,Formicidae,Hymenoptera,Insecta,"Myrmica scabrinodis Nylander, 1846",Myrmica scabrinodis
+species:cdnom:219401,species:cdnom:219401,genus:Myrmecina,family:Formicidae,species,cdnom:219401,Myrmecina graminicola,Myrmecina,Formicidae,Hymenoptera,Insecta,"Myrmecina graminicola (Latreille, 1802)",Myrmecina graminicola
+species:cdnom:219394,species:cdnom:219394,genus:Myrmica,family:Formicidae,species,cdnom:219394,Myrmica rubra,Myrmica,Formicidae,Hymenoptera,Insecta,"Myrmica rubra (Linnaeus, 1758)",Myrmica rubra
+genus:Temnothorax,NA,genus:Temnothorax,family:Formicidae,genus,NA,NA,Temnothorax,Formicidae,Hymenoptera,Insecta,"Temnothorax Mayr, 1861",Temnothorax
+genus:Lasius,NA,genus:Lasius,family:Formicidae,genus,NA,NA,Lasius,Formicidae,Hymenoptera,Insecta,"Lasius Fabricius, 1804",Lasius
+species:cdnom:52817,species:cdnom:52817,genus:Lasius,family:Formicidae,species,cdnom:52817,Lasius niger,Lasius,Formicidae,Hymenoptera,Insecta,"Lasius niger (Linnaeus, 1758)",Lasius niger
+species:cdnom:219482,species:cdnom:219482,genus:Lasius,family:Formicidae,species,cdnom:219482,Lasius flavus,Lasius,Formicidae,Hymenoptera,Insecta,"Lasius flavus (Fabricius, 1782)",Lasius flavus
+species:cdnom:219397,species:cdnom:219397,genus:Myrmica,family:Formicidae,species,cdnom:219397,Myrmica schencki,Myrmica,Formicidae,Hymenoptera,Insecta,"Myrmica schencki Viereck, 1903",Myrmica schencki
+species:cdnom:219493,species:cdnom:219493,genus:Lasius,family:Formicidae,species,cdnom:219493,Lasius platythorax,Lasius,Formicidae,Hymenoptera,Insecta,"Lasius platythorax Seifert, 1991",Lasius platythorax
+genus:Stenamma,NA,genus:Stenamma,family:Formicidae,genus,NA,NA,Stenamma,Formicidae,Hymenoptera,Insecta,"Stenamma Westwood, 1839",Stenamma
+species:cdnom:628335,species:cdnom:628335,genus:Myrmica,family:Formicidae,species,cdnom:628335,Myrmica specioides,Myrmica,Formicidae,Hymenoptera,Insecta,"Myrmica specioides Bondroit, 1918",Myrmica specioides
+genus:Solenopsis,NA,genus:Solenopsis,family:Formicidae,genus,NA,NA,Solenopsis,Formicidae,Hymenoptera,Insecta,"Solenopsis Westwood, 1840",Solenopsis
+species:cdnom:52777,species:cdnom:52777,genus:Aphaenogaster,family:Formicidae,species,cdnom:52777,Aphaenogaster subterranea,Aphaenogaster,Formicidae,Hymenoptera,Insecta,"Aphaenogaster subterranea (Latreille, 1798)",Aphaenogaster subterranea
+species:cdnom:52831,species:cdnom:52831,genus:Tapinoma,family:Formicidae,species,cdnom:52831,Tapinoma erraticum,Tapinoma,Formicidae,Hymenoptera,Insecta,"Tapinoma erraticum (Latreille, 1798)",Tapinoma erraticum
+family:Formicidae,NA,NA,family:Formicidae,family,NA,NA,NA,Formicidae,Hymenoptera,Insecta,"Formicinae Latreille, 1809",Formicinae
+species:cdnom:219483,species:cdnom:219483,genus:Lasius,family:Formicidae,species,cdnom:219483,Lasius myops,Lasius,Formicidae,Hymenoptera,Insecta,"Lasius myops Forel, 1894",Lasius myops
+species:cdnom:52781,species:cdnom:52781,genus:Camponotus,family:Formicidae,species,cdnom:52781,Camponotus lateralis,Camponotus,Formicidae,Hymenoptera,Insecta,"Camponotus lateralis (Olivier, 1792)",Camponotus lateralis
+species:cdnom:52811,species:cdnom:52811,genus:Crematogaster,family:Formicidae,species,cdnom:52811,Crematogaster scutellaris,Crematogaster,Formicidae,Hymenoptera,Insecta,"Crematogaster scutellaris (Olivier, 1792)",Crematogaster scutellaris
+species:cdnom:219492,species:cdnom:219492,genus:Lasius,family:Formicidae,species,cdnom:219492,Lasius neglectus,Lasius,Formicidae,Hymenoptera,Insecta,"Lasius neglectus Van Loon, Boomsma & Andrasfalvy, 1990",Lasius neglectus
+species:cdnom:219520,species:cdnom:219520,genus:Camponotus,family:Formicidae,species,cdnom:219520,Camponotus cruentatus,Camponotus,Formicidae,Hymenoptera,Insecta,"Camponotus cruentatus (Latreille, 1802)",Camponotus cruentatus
+species:cdnom:264065,species:cdnom:264065,genus:Stenamma,family:Formicidae,species,cdnom:264065,Stenamma westwoodii,Stenamma,Formicidae,Hymenoptera,Insecta,"Stenamma westwoodii Westwood, 1839",Stenamma westwoodii
+species:cdnom:219528,species:cdnom:219528,genus:Hypoponera,family:Formicidae,species,cdnom:219528,Hypoponera eduardi,Hypoponera,Formicidae,Hymenoptera,Insecta,"Hypoponera eduardi (Forel, 1894)",Hypoponera eduardi
+genus:Myrmica,NA,genus:Myrmica,family:Formicidae,genus,NA,NA,Myrmica,Formicidae,Hymenoptera,Insecta,"Myrmica Latreille, 1804",Myrmica
+species:cdnom:264499,species:cdnom:264499,genus:Camponotus,family:Formicidae,species,cdnom:264499,Camponotus pilicornis,Camponotus,Formicidae,Hymenoptera,Insecta,"Camponotus pilicornis (Roger, 1859)",Camponotus pilicornis
+genus:Formica,NA,genus:Formica,family:Formicidae,genus,NA,NA,Formica,Formicidae,Hymenoptera,Insecta,"Formica Linnaeus, 1758",Formica
+species:cdnom:199813,species:cdnom:199813,genus:Formica,family:Formicidae,species,cdnom:199813,Formica lugubris,Formica,Formicidae,Hymenoptera,Insecta,"Formica lugubris Zetterstedt, 1838",Formica lugubris
+species:cdnom:219507,species:cdnom:219507,genus:Formica,family:Formicidae,species,cdnom:219507,Formica lemani,Formica,Formicidae,Hymenoptera,Insecta,"Formica lemani Bondroit, 1917",Formica lemani
+species:cdnom:219413,species:cdnom:219413,genus:Leptothorax,family:Formicidae,species,cdnom:219413,Leptothorax acervorum,Leptothorax,Formicidae,Hymenoptera,Insecta,"Leptothorax acervorum (Fabricius, 1793)",Leptothorax acervorum
+species:cdnom:52815,species:cdnom:52815,genus:Lasius,family:Formicidae,species,cdnom:52815,Lasius brunneus,Lasius,Formicidae,Hymenoptera,Insecta,"Lasius brunneus (Latreille, 1798)",Lasius brunneus
+species:cdnom:219496,species:cdnom:219496,genus:Formica,family:Formicidae,species,cdnom:219496,Formica exsecta,Formica,Formicidae,Hymenoptera,Insecta,"Formica exsecta Nylander, 1846",Formica exsecta
+species:cdnom:219398,species:cdnom:219398,genus:Myrmica,family:Formicidae,species,cdnom:219398,Myrmica sulcinodis,Myrmica,Formicidae,Hymenoptera,Insecta,"Myrmica sulcinodis Nylander, 1846",Myrmica sulcinodis
+species:cdnom:219512,species:cdnom:219512,genus:Cataglyphis,family:Formicidae,species,cdnom:219512,Cataglyphis cursor,Cataglyphis,Formicidae,Hymenoptera,Insecta,"Cataglyphis cursor (Fonscolombe, 1846)",Cataglyphis cursor

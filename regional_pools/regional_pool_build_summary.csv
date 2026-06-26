@@ -1,0 +1,9 @@
+assemblage_id,n_regional_species,n_observed_species,n_observed_matched,observed_match_rate,n_observed_with_alternative_candidate,share_observed_with_alternative_candidate,median_n_alternative_candidates,n_expert_template_rows
+collembola_soil_core,729,54,53,0.9814814814814815,51,0.9444444444444444,7.5,151
+araneae_pitfall,1560,225,215,0.9555555555555556,204,0.9066666666666666,7,0
+carabidae_pitfall,1267,190,187,0.9842105263157894,184,0.968421052631579,50,0
+formicidae_pitfall,225,46,45,0.9782608695652174,44,0.9565217391304348,22,0
+isopoda_pitfall,539,19,17,0.8947368421052632,15,0.7894736842105263,2,0
+isopoda_hand_sorting,539,17,16,0.9411764705882353,13,0.7647058823529411,2,0
+diplopoda_pitfall,285,18,17,0.9444444444444444,14,0.7777777777777778,10,0
+diplopoda_hand_sorting,285,26,24,0.9230769230769231,18,0.6923076923076923,6,0

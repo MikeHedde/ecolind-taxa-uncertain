@@ -1,0 +1,9 @@
+assemblage_id,group_label,method,total_abundance,male,female,juvenile_explicit,indeterminate_stage_or_sex,abundance_not_stage_resolved,stage_accounting_difference,juvenile_share,stage_candidate
+collembola_soil_core,Collembola,soil-core,3066,1,0,0,0,3065,3065,0,FALSE
+araneae_pitfall,Araneae,pitfall-trap,8930,5536,2641,744,0,9,9,0.08331466965285554,TRUE
+formicidae_pitfall,Formicidae,pitfall-trap,10354,4,52,0,10478,4,-180,0,FALSE
+carabidae_pitfall,Carabidae,pitfall-trap,9181,3554,5501,5,0,121,121,5.446029844243547e-4,FALSE
+isopoda_pitfall,Isopoda,pitfall-trap,867,293,441,0,50,83,83,0,FALSE
+isopoda_hand_sorting,Isopoda,hand-sorting,379,97,226,0,56,0,0,0,FALSE
+diplopoda_pitfall,Diplopoda,pitfall-trap,236,53,47,94,6,36,36,0.3983050847457627,TRUE
+diplopoda_hand_sorting,Diplopoda,hand-sorting,301,45,100,60,3,93,93,0.19933554817275748,TRUE

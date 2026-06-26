@@ -1,0 +1,5 @@
+assemblage_id,group_label,method,resolution,n_records,total_abundance,n_reported_names,n_stations_positive,abundance_share,record_share
+collembola_soil_core,Collembola,soil-core,family,6,15,2,4,0.004892367906066536,0.008379888268156424
+collembola_soil_core,Collembola,soil-core,genus,152,688,16,59,0.22439660795825178,0.2122905027932961
+collembola_soil_core,Collembola,soil-core,order,8,11,2,8,0.003587736464448793,0.0111731843575419
+collembola_soil_core,Collembola,soil-core,species,550,2352,51,68,0.7671232876712328,0.7681564245810056

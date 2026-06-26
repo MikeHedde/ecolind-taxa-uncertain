@@ -1,0 +1,37 @@
+taxon_unit_rtu,taxon_unit_species,taxon_unit_genus,taxon_unit_family,taxo_level,species_key,binomial,genus,family,order,class,valid_name,name
+species:cdnom:227458,species:cdnom:227458,genus:Glomeris,family:Glomeridae,species,cdnom:227458,Glomeris valesiaca,Glomeris,Glomeridae,Glomerida,Diplopoda,"Glomeris valesiaca Rothenbühler, 1899",Glomeris valesiaca
+species:cdnom:969672,species:cdnom:969672,genus:Cylindroiulus,family:Julidae,species,cdnom:969672,Cylindroiulus spinosus,Cylindroiulus,Julidae,Julida,Diplopoda,"Cylindroiulus spinosus (Ribaut, 1904)",Cylindroiulus spinosus
+family:Polydesmidae,NA,NA,family:Polydesmidae,family,NA,NA,NA,Polydesmidae,Polydesmida,Diplopoda,"Polydesmidae Leach, 1815",Polydesmidae
+family:Julidae,NA,NA,family:Julidae,family,NA,NA,NA,Julidae,Julida,Diplopoda,"Julidae Leach, 1814",Julidae
+species:cdnom:64859,species:cdnom:64859,genus:Glomeris,family:Glomeridae,species,cdnom:64859,Glomeris marginata,Glomeris,Glomeridae,Glomerida,Diplopoda,"Glomeris marginata (Villers, 1789)",Glomeris marginata
+species:cdnom:227618,species:cdnom:227618,genus:Allajulus,family:Julidae,species,cdnom:227618,Allajulus nitidus,Allajulus,Julidae,Julida,Diplopoda,"Allajulus nitidus (Verhoeff, 1891)",Allajulus nitidus
+species:cdnom:227676,species:cdnom:227676,genus:Tachypodoiulus,family:Julidae,species,cdnom:227676,Tachypodoiulus niger,Tachypodoiulus,Julidae,Julida,Diplopoda,"Tachypodoiulus niger (Leach, 1814)",Tachypodoiulus niger
+genus:Leptoiulus,NA,genus:Leptoiulus,family:Julidae,genus,NA,NA,Leptoiulus,Julidae,Julida,Diplopoda,"Leptoiulus Verhoeff, 1894",Leptoiulus
+species:cdnom:227454,species:cdnom:227454,genus:Glomeris,family:Glomeridae,species,cdnom:227454,Glomeris intermedia,Glomeris,Glomeridae,Glomerida,Diplopoda,"Glomeris intermedia Latzel, 1884",Glomeris intermedia
+species:cdnom:227473,species:cdnom:227473,genus:Polyzonium,family:Polyzoniidae,species,cdnom:227473,Polyzonium germanicum,Polyzonium,Polyzoniidae,Polyzoniida,Diplopoda,"Polyzonium germanicum Brandt, 1837",Polyzonium germanicum
+species:cdnom:227522,species:cdnom:227522,genus:Melogona,family:Chordeumatidae,species,cdnom:227522,Melogona gallica,Melogona,Chordeumatidae,Chordeumatida,Diplopoda,"Melogona gallica (Latzel, 1884)",Melogona gallica
+species:cdnom:227628,species:cdnom:227628,genus:Cylindroiulus,family:Julidae,species,cdnom:227628,Cylindroiulus londinensis,Cylindroiulus,Julidae,Julida,Diplopoda,"Cylindroiulus londinensis (Leach, 1815)",Cylindroiulus londinensis
+genus:Polydesmus,NA,genus:Polydesmus,family:Polydesmidae,genus,NA,NA,Polydesmus,Polydesmidae,Polydesmida,Diplopoda,"Polydesmus Latreille, 1802",Polydesmus
+species:cdnom:227687,species:cdnom:227687,genus:Ophiodesmus,family:Macrosternodesmidae,species,cdnom:227687,Ophiodesmus albonanus,Ophiodesmus,Macrosternodesmidae,Polydesmida,Diplopoda,"Ophiodesmus albonanus (Latzel, 1895)",Ophiodesmus albonanus
+species:cdnom:227593,species:cdnom:227593,genus:Blaniulus,family:Blaniulidae,species,cdnom:227593,Blaniulus guttulatus,Blaniulus,Blaniulidae,Julida,Diplopoda,"Blaniulus guttulatus (Fabricius, 1798)",Blaniulus guttulatus
+species:cdnom:227692,species:cdnom:227692,genus:Brachydesmus,family:Polydesmidae,species,cdnom:227692,Brachydesmus superus,Brachydesmus,Polydesmidae,Polydesmida,Diplopoda,"Brachydesmus superus Latzel, 1884",Brachydesmus superus
+family:Blaniulidae,NA,NA,family:Blaniulidae,family,NA,NA,NA,Blaniulidae,Julida,Diplopoda,"Blaniulidae C. L. Koch, 1847",Blaniulidae
+species:cdnom:227700,species:cdnom:227700,genus:Polydesmus,family:Polydesmidae,species,cdnom:227700,Polydesmus denticulatus,Polydesmus,Polydesmidae,Polydesmida,Diplopoda,"Polydesmus denticulatus C.L. Koch, 1847",Polydesmus denticulatus
+genus:Glomeris,NA,genus:Glomeris,family:Glomeridae,genus,NA,NA,Glomeris,Glomeridae,Glomerida,Diplopoda,"Glomeris Latreille, 1802",Glomeris
+genus:Brachychaeteuma,NA,genus:Brachychaeteuma,family:Brachychaeteumatidae,genus,NA,NA,Brachychaeteuma,Brachychaeteumatidae,Chordeumatida,Diplopoda,"Brachychaeteuma Verhoeff, 1911",Brachychaeteuma
+species:cdnom:227621,species:cdnom:227621,genus:Brachyiulus,family:Julidae,species,cdnom:227621,Brachyiulus pusillus,Brachyiulus,Julidae,Julida,Diplopoda,"Brachyiulus pusillus (Leach, 1814)",Brachyiulus pusillus
+species:cdnom:227623,species:cdnom:227623,genus:Cylindroiulus,family:Julidae,species,cdnom:227623,Cylindroiulus caeruleocinctus,Cylindroiulus,Julidae,Julida,Diplopoda,"Cylindroiulus caeruleocinctus (Wood, 1864)",Cylindroiulus caeruleocinctus
+species:cdnom:227714,species:cdnom:227714,genus:Propolydesmus,family:Polydesmidae,species,cdnom:227714,Propolydesmus testaceus,Propolydesmus,Polydesmidae,Polydesmida,Diplopoda,"Propolydesmus testaceus (C.L. Koch, 1847)",Propolydesmus testaceus
+genus:Brachyiulus,NA,genus:Brachyiulus,family:Julidae,genus,NA,NA,Brachyiulus,Julidae,Julida,Diplopoda,"Brachyiulus Berlese, 1884",Brachyiulus
+species:cdnom:227703,species:cdnom:227703,genus:Polydesmus,family:Polydesmidae,species,cdnom:227703,Polydesmus inconstans,Polydesmus,Polydesmidae,Polydesmida,Diplopoda,"Polydesmus inconstans Latzel, 1884",Polydesmus inconstans
+species:cdnom:227699,species:cdnom:227699,genus:Polydesmus,family:Polydesmidae,species,cdnom:227699,Polydesmus coriaceus,Polydesmus,Polydesmidae,Polydesmida,Diplopoda,"Polydesmus coriaceus Porat, 1871",Polydesmus coriaceus
+species:cdnom:227626,species:cdnom:227626,genus:Cylindroiulus,family:Julidae,species,cdnom:227626,Cylindroiulus latestriatus,Cylindroiulus,Julidae,Julida,Diplopoda,"Cylindroiulus latestriatus (Curtis, 1845)",Cylindroiulus latestriatus
+genus:Ommatoiulus,NA,genus:Ommatoiulus,family:Julidae,genus,NA,NA,Ommatoiulus,Julidae,Julida,Diplopoda,"Ommatoiulus Latzel, 1884",Ommatoiulus
+species:cdnom:227668,species:cdnom:227668,genus:Ommatoiulus,family:Julidae,species,cdnom:227668,Ommatoiulus sabulosus,Ommatoiulus,Julidae,Julida,Diplopoda,"Ommatoiulus sabulosus (Linnaeus, 1758)",Ommatoiulus sabulosus
+species:cdnom:227609,species:cdnom:227609,genus:Occitaniulus,family:Blaniulidae,species,cdnom:227609,Occitaniulus rouchi,Occitaniulus,Blaniulidae,Julida,Diplopoda,"Occitaniulus rouchi Mauriès, 1965",Occitaniulus rouchi
+species:cdnom:64877,species:cdnom:64877,genus:Polydesmus,family:Polydesmidae,species,cdnom:64877,Polydesmus angustus,Polydesmus,Polydesmidae,Polydesmida,Diplopoda,"Polydesmus angustus Latzel, 1884",Polydesmus angustus
+genus:Chordeuma,NA,genus:Chordeuma,family:Chordeumatidae,genus,NA,NA,Chordeuma,Chordeumatidae,Chordeumatida,Diplopoda,"Chordeuma C.L. Koch, 1847",Chordeuma
+family:Chordeumatidae,NA,NA,family:Chordeumatidae,family,NA,NA,NA,Chordeumatidae,Chordeumatida,Diplopoda,"Chordeumatidae C.L. Koch, 1847",Chordeumatidae
+species:cdnom:227641,species:cdnom:227641,genus:Julus,family:Julidae,species,cdnom:227641,Julus scandinavius,Julus,Julidae,Julida,Diplopoda,"Julus scandinavius Latzel, 1884",Julus scandinavius
+species:cdnom:212638,species:cdnom:212638,NA,family:Chordeumatidae,species,cdnom:212638,NA,NA,Chordeumatidae,Chordeumatida,Diplopoda,"Melogona Cook, 1895",Melogona
+species:cdnom:227588,species:cdnom:227588,genus:Galliobates,family:Galliobatidae,species,cdnom:227588,Galliobates gracilis,Galliobates,Galliobatidae,Julida,Diplopoda,"Galliobates gracilis (Ribaut, 1909)",Galliobates gracilis

@@ -1,0 +1,271 @@
+taxon_unit_rtu,taxon_unit_species,taxon_unit_genus,taxon_unit_family,taxo_level,species_key,binomial,genus,family,order,class,valid_name,name
+species:cdnom:1180,species:cdnom:1180,genus:Haplodrassus,family:Gphosidae,species,cdnom:1180,Haplodrassus signifer,Haplodrassus,Gphosidae,Araneae,Arachnida,"Haplodrassus signifer (C.L. Koch, 1839)",Haplodrassus signifer
+species:cdnom:806888,species:cdnom:806888,genus:Agyneta,family:Linyphiidae,species,cdnom:806888,Agyneta rurestris,Agyneta,Linyphiidae,Araneae,Arachnida,"Agyneta rurestris (C. L. Koch, 1836)",Agyneta rurestris
+species:cdnom:233745,species:cdnom:233745,genus:Prinerigone,family:Linyphiidae,species,cdnom:233745,Prinerigone vagans,Prinerigone,Linyphiidae,Araneae,Arachnida,"Prinerigone vagans (Audouin, 1826)",Prinerigone vagans
+species:cdnom:233806,species:cdnom:233806,genus:Trichopterna,family:Linyphiidae,species,cdnom:233806,Trichopterna cucurbitina,Trichopterna,Linyphiidae,Araneae,Arachnida,"Trichopterna cucurbitina (Simon, 1881)",Trichopterna cucurbitina
+genus:Pardosa,NA,genus:Pardosa,family:Lycosidae,genus,NA,NA,Pardosa,Lycosidae,Araneae,Arachnida,"Pardosa Koch, 1847",Pardosa
+family:Gphosidae,NA,NA,family:Gphosidae,family,NA,NA,NA,Gphosidae,Araneae,Arachnida,"Gnaphosidae Pocock, 1898",Gnaphosidae
+species:cdnom:233880,species:cdnom:233880,genus:Pardosa,family:Lycosidae,species,cdnom:233880,Pardosa cribrata,Pardosa,Lycosidae,Araneae,Arachnida,"Pardosa cribrata Simon, 1876",Pardosa cribrata
+species:cdnom:907035,species:cdnom:907035,genus:Pardosa,family:Lycosidae,species,cdnom:907035,Pardosa tenuipes,Pardosa,Lycosidae,Araneae,Arachnida,"Pardosa tenuipes L. Koch, 1882",Pardosa tenuipes
+species:cdnom:907604,species:cdnom:907604,genus:Haplodrassus,family:Gphosidae,species,cdnom:907604,Haplodrassus rufipes,Haplodrassus,Gphosidae,Araneae,Arachnida,"Haplodrassus rufipes (Lucas, 1846)",Haplodrassus rufipes
+genus:Zodarion,NA,genus:Zodarion,family:Zodariidae,genus,NA,NA,Zodarion,Zodariidae,Araneae,Arachnida,"Zodarion Walckenaer, 1826",Zodarion
+species:cdnom:233458,species:cdnom:233458,genus:Alioranus,family:Linyphiidae,species,cdnom:233458,Alioranus pauper,Alioranus,Linyphiidae,Araneae,Arachnida,"Alioranus pauper (Simon, 1881)",Alioranus pauper
+species:cdnom:233757,species:cdnom:233757,genus:Silometopus,family:Linyphiidae,species,cdnom:233757,Silometopus curtus,Silometopus,Linyphiidae,Araneae,Arachnida,"Silometopus curtus (Simon, 1881)",Silometopus curtus
+species:cdnom:233354,species:cdnom:233354,genus:Micaria,family:Gphosidae,species,cdnom:233354,Micaria pallipes,Micaria,Gphosidae,Araneae,Arachnida,"Micaria pallipes (Lucas, 1846)",Micaria pallipes
+species:cdnom:1759,species:cdnom:1759,genus:Zora,family:Miturgidae,species,cdnom:1759,Zora manicata,Zora,Miturgidae,Araneae,Arachnida,"Zora manicata Simon, 1878",Zora manicata
+species:cdnom:719821,species:cdnom:719821,genus:Eratigena,family:Agelenidae,species,cdnom:719821,Eratigena picta,Eratigena,Agelenidae,Araneae,Arachnida,"Eratigena picta (Simon, 1870)",Eratigena picta
+species:cdnom:233660,species:cdnom:233660,genus:Metopobactrus,family:Linyphiidae,species,cdnom:233660,Metopobactrus verticalis,Metopobactrus,Linyphiidae,Araneae,Arachnida,"Metopobactrus verticalis (Simon, 1881)",Metopobactrus verticalis
+species:cdnom:1788,species:cdnom:1788,genus:Phrurolithus,family:Phrurolithidae,species,cdnom:1788,Phrurolithus nigrinus,Phrurolithus,Phrurolithidae,Araneae,Arachnida,"Phrurolithus nigrinus (Simon, 1878)",Phrurolithus nigrinus
+genus:Phaeocedus,NA,genus:Phaeocedus,family:Gphosidae,genus,NA,NA,Phaeocedus,Gphosidae,Araneae,Arachnida,"Phaeocedus Simon, 1893",Phaeocedus
+species:cdnom:1894,species:cdnom:1894,genus:Alopecosa,family:Lycosidae,species,cdnom:1894,Alopecosa albofasciata,Alopecosa,Lycosidae,Araneae,Arachnida,"Alopecosa albofasciata (Brullé, 1832)",Alopecosa albofasciata
+species:cdnom:457240,species:cdnom:457240,genus:Ipa,family:Linyphiidae,species,cdnom:457240,Ipa keyserlingi,Ipa,Linyphiidae,Araneae,Arachnida,"Ipa keyserlingi (Ausserer, 1867)",Ipa keyserlingi
+species:cdnom:1781,species:cdnom:1781,genus:Scotina,family:Liocranidae,species,cdnom:1781,Scotina celans,Scotina,Liocranidae,Araneae,Arachnida,"Scotina celans (Blackwall, 1841)",Scotina celans
+species:cdnom:457342,species:cdnom:457342,genus:Pardosa,family:Lycosidae,species,cdnom:457342,Pardosa saltans,Pardosa,Lycosidae,Araneae,Arachnida,"Pardosa saltans Töpfer-Hofmann, 2000",Pardosa saltans
+species:cdnom:457273,species:cdnom:457273,genus:Oonops,family:Oonopidae,species,cdnom:457273,Oonops domesticus,Oonops,Oonopidae,Araneae,Arachnida,"Oonops domesticus Dalmas, 1916",Oonops domesticus
+species:cdnom:233321,species:cdnom:233321,genus:Drassyllus,family:Gphosidae,species,cdnom:233321,Drassyllus villicus,Drassyllus,Gphosidae,Araneae,Arachnida,"Drassyllus villicus (Thorell, 1875)",Drassyllus villicus
+species:cdnom:233417,species:cdnom:233417,genus:Zelotes,family:Gphosidae,species,cdnom:233417,Zelotes oblongus,Zelotes,Gphosidae,Araneae,Arachnida,"Zelotes oblongus (C.L. Koch, 1833)",Zelotes oblongus
+family:Linyphiidae,NA,NA,family:Linyphiidae,family,NA,NA,NA,Linyphiidae,Araneae,Arachnida,"Trichoncus Simon, 1884",Trichoncus
+species:cdnom:233864,species:cdnom:233864,genus:Scotina,family:Liocranidae,species,cdnom:233864,Scotina palliardii,Scotina,Liocranidae,Araneae,Arachnida,"Scotina palliardii (L. Koch, 1881)",Scotina palliardii
+family:Araneidae,NA,NA,family:Araneidae,family,NA,NA,NA,Araneidae,Araneae,Arachnida,"Araneidae Clerck, 1758",Araneidae
+species:cdnom:887090,species:cdnom:887090,genus:Alopecosa,family:Lycosidae,species,cdnom:887090,Alopecosa farinosa,Alopecosa,Lycosidae,Araneae,Arachnida,"Alopecosa farinosa (Herman, 1879)",Alopecosa farinosa
+species:cdnom:1897,species:cdnom:1897,genus:Alopecosa,family:Lycosidae,species,cdnom:1897,Alopecosa pulverulenta,Alopecosa,Lycosidae,Araneae,Arachnida,"Alopecosa pulverulenta (Clerck, 1758)",Alopecosa pulverulenta
+genus:Pisaura,NA,genus:Pisaura,family:Pisauridae,genus,NA,NA,Pisaura,Pisauridae,Araneae,Arachnida,"Pisaura Simon, 1885",Pisaura
+genus:Ozyptila,NA,genus:Ozyptila,family:Thomisidae,genus,NA,NA,Ozyptila,Thomisidae,Araneae,Arachnida,"Ozyptila Simon, 1864",Ozyptila
+species:cdnom:1872,species:cdnom:1872,genus:Hahnia,family:Hahniidae,species,cdnom:1872,Hahnia nava,Hahnia,Hahniidae,Araneae,Arachnida,"Hahnia nava (Blackwall, 1841)",Hahnia nava
+species:cdnom:924,species:cdnom:924,genus:Aulonia,family:Lycosidae,species,cdnom:924,Aulonia albimana,Aulonia,Lycosidae,Araneae,Arachnida,"Aulonia albimana (Walckenaer, 1805)",Aulonia albimana
+species:cdnom:1924,species:cdnom:1924,genus:Pardosa,family:Lycosidae,species,cdnom:1924,Pardosa hortensis,Pardosa,Lycosidae,Araneae,Arachnida,"Pardosa hortensis (Thorell, 1872)",Pardosa hortensis
+species:cdnom:233832,species:cdnom:233832,genus:Walckenaeria,family:Linyphiidae,species,cdnom:233832,Walckenaeria corniculans,Walckenaeria,Linyphiidae,Araneae,Arachnida,"Walckenaeria corniculans (O. Pickard-Cambridge, 1875)",Walckenaeria corniculans
+family:Liocranidae,NA,NA,family:Liocranidae,family,NA,NA,NA,Liocranidae,Araneae,Arachnida,"Liocranidae Simon, 1897",Liocranidae
+species:cdnom:806889,species:cdnom:806889,genus:Agyneta,family:Linyphiidae,species,cdnom:806889,Agyneta saxatilis,Agyneta,Linyphiidae,Araneae,Arachnida,"Agyneta saxatilis (Blackwall, 1844)",Agyneta saxatilis
+species:cdnom:1378,species:cdnom:1378,genus:Centromerus,family:Linyphiidae,species,cdnom:1378,Centromerus dilutus,Centromerus,Linyphiidae,Araneae,Arachnida,"Centromerus dilutus (O. Pickard-Cambridge, 1875)",Centromerus dilutus
+species:cdnom:1421,species:cdnom:1421,genus:Minyriolus,family:Linyphiidae,species,cdnom:1421,Minyriolus pusillus,Minyriolus,Linyphiidae,Araneae,Arachnida,"Minyriolus pusillus (Wider, 1834)",Minyriolus pusillus
+species:cdnom:233830,species:cdnom:233830,genus:Walckenaeria,family:Linyphiidae,species,cdnom:233830,Walckenaeria atrotibialis,Walckenaeria,Linyphiidae,Araneae,Arachnida,"Walckenaeria atrotibialis (O. Pickard-Cambridge, 1878)",Walckenaeria atrotibialis
+species:cdnom:1774,species:cdnom:1774,genus:Agroeca,family:Liocranidae,species,cdnom:1774,Agroeca brunnea,Agroeca,Liocranidae,Araneae,Arachnida,"Agroeca brunnea (Blackwall, 1833)",Agroeca brunnea
+species:cdnom:1664,species:cdnom:1664,genus:Xysticus,family:Thomisidae,species,cdnom:1664,Xysticus luctuosus,Xysticus,Thomisidae,Araneae,Arachnida,"Xysticus luctuosus (Blackwall, 1836)",Xysticus luctuosus
+species:cdnom:791746,species:cdnom:791746,genus:Iberina,family:Hahniidae,species,cdnom:791746,Iberina montana,Iberina,Hahniidae,Araneae,Arachnida,"Iberina montana (Blackwall, 1841)",Iberina montana
+species:cdnom:1941,species:cdnom:1941,genus:Trochosa,family:Lycosidae,species,cdnom:1941,Trochosa terricola,Trochosa,Lycosidae,Araneae,Arachnida,"Trochosa terricola Thorell, 1856",Trochosa terricola
+genus:Trochosa,NA,genus:Trochosa,family:Lycosidae,genus,NA,NA,Trochosa,Lycosidae,Araneae,Arachnida,"Trochosa C.L. Koch, 1847",Trochosa
+species:cdnom:1455,species:cdnom:1455,genus:Gongylidiellum,family:Linyphiidae,species,cdnom:1455,Gongylidiellum latebricola,Gongylidiellum,Linyphiidae,Araneae,Arachnida,"Gongylidiellum latebricola (O. Pickard-Cambridge, 1871)",Gongylidiellum latebricola
+species:cdnom:233783,species:cdnom:233783,genus:Tenuiphantes,family:Linyphiidae,species,cdnom:233783,Tenuiphantes mengei,Tenuiphantes,Linyphiidae,Araneae,Arachnida,"Tenuiphantes mengei (Kulczy?ski, 1887)",Tenuiphantes mengei
+species:cdnom:1927,species:cdnom:1927,genus:Pardosa,family:Lycosidae,species,cdnom:1927,Pardosa palustris,Pardosa,Lycosidae,Araneae,Arachnida,"Pardosa palustris (Linnaeus, 1758)",Pardosa palustris
+species:cdnom:1922,species:cdnom:1922,genus:Pardosa,family:Lycosidae,species,cdnom:1922,Pardosa pullata,Pardosa,Lycosidae,Araneae,Arachnida,"Pardosa pullata (Clerck, 1758)",Pardosa pullata
+genus:Enoplognatha,NA,genus:Enoplognatha,family:Theridiidae,genus,NA,NA,Enoplognatha,Theridiidae,Araneae,Arachnida,"Enoplognatha Pavesi, 1880",Enoplognatha
+genus:Euophrys,NA,genus:Euophrys,family:Salticidae,genus,NA,NA,Euophrys,Salticidae,Araneae,Arachnida,"Euophrys C.L. Koch, 1834",Euophrys
+family:Agelenidae,NA,NA,family:Agelenidae,family,NA,NA,NA,Agelenidae,Araneae,Arachnida,"Agelenidae Koch, 1837",Agelenidae
+species:cdnom:233694,species:cdnom:233694,genus:Palliduphantes,family:Linyphiidae,species,cdnom:233694,Palliduphantes alutacius,Palliduphantes,Linyphiidae,Araneae,Arachnida,"Palliduphantes alutacius (Simon, 1884)",Palliduphantes alutacius
+species:cdnom:234166,species:cdnom:234166,genus:Ozyptila,family:Thomisidae,species,cdnom:234166,Ozyptila trux,Ozyptila,Thomisidae,Araneae,Arachnida,"Ozyptila trux (Blackwall, 1846)",Ozyptila trux
+genus:Zora,NA,genus:Zora,family:Miturgidae,genus,NA,NA,Zora,Miturgidae,Araneae,Arachnida,"Zora C. L. Koch, 1847",Zora
+species:cdnom:233387,species:cdnom:233387,genus:Trachyzelotes,family:Gphosidae,species,cdnom:233387,Trachyzelotes pedestris,Trachyzelotes,Gphosidae,Araneae,Arachnida,"Trachyzelotes pedestris (C.L. Koch, 1837)",Trachyzelotes pedestris
+species:cdnom:1323,species:cdnom:1323,genus:Enoplognatha,family:Theridiidae,species,cdnom:1323,Enoplognatha thoracica,Enoplognatha,Theridiidae,Araneae,Arachnida,"Enoplognatha thoracica (Hahn, 1833)",Enoplognatha thoracica
+species:cdnom:457392,species:cdnom:457392,genus:Xysticus,family:Thomisidae,species,cdnom:457392,Xysticus luctator,Xysticus,Thomisidae,Araneae,Arachnida,"Xysticus luctator L. Koch, 1870",Xysticus luctator
+family:Lycosidae,NA,NA,family:Lycosidae,family,NA,NA,NA,Lycosidae,Araneae,Arachnida,"Lycosidae Sundevall, 1833",Lycosidae
+species:cdnom:233170,species:cdnom:233170,genus:Histopona,family:Agelenidae,species,cdnom:233170,Histopona torpida,Histopona,Agelenidae,Araneae,Arachnida,"Histopona torpida (C.L. Koch, 1837)",Histopona torpida
+species:cdnom:886,species:cdnom:886,genus:Atypus,family:Atypidae,species,cdnom:886,Atypus affinis,Atypus,Atypidae,Araneae,Arachnida,"Atypus affinis Eichwald, 1830",Atypus affinis
+species:cdnom:233668,species:cdnom:233668,genus:Microneta,family:Linyphiidae,species,cdnom:233668,Microneta viaria,Microneta,Linyphiidae,Araneae,Arachnida,"Microneta viaria (Blackwall, 1841)",Microneta viaria
+species:cdnom:1786,species:cdnom:1786,genus:Phrurolithus,family:Phrurolithidae,species,cdnom:1786,Phrurolithus festivus,Phrurolithus,Phrurolithidae,Araneae,Arachnida,"Phrurolithus festivus (C.L. Koch, 1835)",Phrurolithus festivus
+species:cdnom:233527,species:cdnom:233527,genus:Diplocephalus,family:Linyphiidae,species,cdnom:233527,Diplocephalus graecus,Diplocephalus,Linyphiidae,Araneae,Arachnida,"Diplocephalus graecus (O. Pickard-Cambridge, 1873)",Diplocephalus graecus
+species:cdnom:1446,species:cdnom:1446,genus:Erigone,family:Linyphiidae,species,cdnom:1446,Erigone dentipalpis,Erigone,Linyphiidae,Araneae,Arachnida,"Erigone dentipalpis (Wider, 1834)",Erigone dentipalpis
+species:cdnom:1504,species:cdnom:1504,genus:Pelecopsis,family:Linyphiidae,species,cdnom:1504,Pelecopsis parallela,Pelecopsis,Linyphiidae,Araneae,Arachnida,"Pelecopsis parallela (Wider, 1834)",Pelecopsis parallela
+species:cdnom:233787,species:cdnom:233787,genus:Tenuiphantes,family:Linyphiidae,species,cdnom:233787,Tenuiphantes tenuis,Tenuiphantes,Linyphiidae,Araneae,Arachnida,"Tenuiphantes tenuis (Blackwall, 1852)",Tenuiphantes tenuis
+family:Linyphiidae,NA,NA,family:Linyphiidae,family,NA,NA,NA,Linyphiidae,Araneae,Arachnida,"Linyphiidae Blackwall, 1859",Linyphiidae
+genus:Xerolycosa,NA,genus:Xerolycosa,family:Lycosidae,genus,NA,NA,Xerolycosa,Lycosidae,Araneae,Arachnida,"Xerolycosa Dahl, 1908",Xerolycosa
+species:cdnom:457316,species:cdnom:457316,genus:Pachygnatha,family:Tetragthidae,species,cdnom:457316,Pachygnatha degeeri,Pachygnatha,Tetragthidae,Araneae,Arachnida,"Pachygnatha degeeri Sundevall, 1830",Pachygnatha degeeri
+species:cdnom:719829,species:cdnom:719829,genus:Civizelotes,family:Gphosidae,species,cdnom:719829,Civizelotes civicus,Civizelotes,Gphosidae,Araneae,Arachnida,"Civizelotes civicus (Simon, 1878)",Civizelotes civicus
+species:cdnom:938619,species:cdnom:938619,genus:Micaria,family:Gphosidae,species,cdnom:938619,Micaria micans,Micaria,Gphosidae,Araneae,Arachnida,"Micaria micans (Blackwall, 1858)",Micaria micans
+species:cdnom:1405,species:cdnom:1405,genus:Diplostyla,family:Linyphiidae,species,cdnom:1405,Diplostyla concolor,Diplostyla,Linyphiidae,Araneae,Arachnida,"Diplostyla concolor (Wider, 1834)",Diplostyla concolor
+species:cdnom:233781,species:cdnom:233781,genus:Tenuiphantes,family:Linyphiidae,species,cdnom:233781,Tenuiphantes flavipes,Tenuiphantes,Linyphiidae,Araneae,Arachnida,"Tenuiphantes flavipes (Blackwall, 1854)",Tenuiphantes flavipes
+species:cdnom:806894,species:cdnom:806894,genus:Piratula,family:Lycosidae,species,cdnom:806894,Piratula hygrophila,Piratula,Lycosidae,Araneae,Arachnida,"Piratula hygrophila (Thorell, 1872)",Piratula hygrophila
+species:cdnom:806896,species:cdnom:806896,genus:Piratula,family:Lycosidae,species,cdnom:806896,Piratula latitans,Piratula,Lycosidae,Araneae,Arachnida,"Piratula latitans (Blackwall, 1841)",Piratula latitans
+species:cdnom:234165,species:cdnom:234165,genus:Ozyptila,family:Thomisidae,species,cdnom:234165,Ozyptila simplex,Ozyptila,Thomisidae,Araneae,Arachnida,"Ozyptila simplex (O. Pickard-Cambridge, 1862)",Ozyptila simplex
+species:cdnom:233895,species:cdnom:233895,genus:Trochosa,family:Lycosidae,species,cdnom:233895,Trochosa ruricola,Trochosa,Lycosidae,Araneae,Arachnida,"Trochosa ruricola (De Geer, 1778)",Trochosa ruricola
+genus:Pachygnatha,NA,genus:Pachygnatha,family:Tetragthidae,genus,NA,NA,Pachygnatha,Tetragthidae,Araneae,Arachnida,"Pachygnatha Sundevall, 1823",Pachygnatha
+species:cdnom:233320,species:cdnom:233320,genus:Drassyllus,family:Gphosidae,species,cdnom:233320,Drassyllus pusillus,Drassyllus,Gphosidae,Araneae,Arachnida,"Drassyllus pusillus (C.L. Koch, 1833)",Drassyllus pusillus
+species:cdnom:806883,species:cdnom:806883,genus:Agyneta,family:Linyphiidae,species,cdnom:806883,Agyneta mollis,Agyneta,Linyphiidae,Araneae,Arachnida,"Agyneta mollis (O. Pickard-Cambridge, 1871)",Agyneta mollis
+species:cdnom:233805,species:cdnom:233805,genus:Trichopterna,family:Linyphiidae,species,cdnom:233805,Trichopterna cito,Trichopterna,Linyphiidae,Araneae,Arachnida,"Trichopterna cito (O. Pickard-Cambridge, 1873)",Trichopterna cito
+species:cdnom:1905,species:cdnom:1905,genus:Arctosa,family:Lycosidae,species,cdnom:1905,Arctosa leopardus,Arctosa,Lycosidae,Araneae,Arachnida,"Arctosa leopardus (Sundevall, 1833)",Arctosa leopardus
+species:cdnom:457340,species:cdnom:457340,genus:Pardosa,family:Lycosidae,species,cdnom:457340,Pardosa prativaga,Pardosa,Lycosidae,Araneae,Arachnida,"Pardosa prativaga (L. Koch, 1870)",Pardosa prativaga
+species:cdnom:1472,species:cdnom:1472,genus:Oedothorax,family:Linyphiidae,species,cdnom:1472,Oedothorax fuscus,Oedothorax,Linyphiidae,Araneae,Arachnida,"Oedothorax fuscus (Blackwall, 1834)",Oedothorax fuscus
+species:cdnom:233697,species:cdnom:233697,genus:Palliduphantes,family:Linyphiidae,species,cdnom:233697,Palliduphantes cebennicus,Palliduphantes,Linyphiidae,Araneae,Arachnida,"Palliduphantes cebennicus (Simon, 1929)",Palliduphantes cebennicus
+species:cdnom:931,species:cdnom:931,genus:Pirata,family:Lycosidae,species,cdnom:931,Pirata piraticus,Pirata,Lycosidae,Araneae,Arachnida,"Pirata piraticus (Clerck, 1758)",Pirata piraticus
+species:cdnom:1202,species:cdnom:1202,genus:Zelotes,family:Gphosidae,species,cdnom:1202,Zelotes apricorum,Zelotes,Gphosidae,Araneae,Arachnida,"Zelotes apricorum (L. Koch, 1876)",Zelotes apricorum
+species:cdnom:1400,species:cdnom:1400,genus:Ceratinella,family:Linyphiidae,species,cdnom:1400,Ceratinella brevis,Ceratinella,Linyphiidae,Araneae,Arachnida,"Ceratinella brevis (Wider, 1834)",Ceratinella brevis
+species:cdnom:233709,species:cdnom:233709,genus:Palliduphantes,family:Linyphiidae,species,cdnom:233709,Palliduphantes pallidus,Palliduphantes,Linyphiidae,Araneae,Arachnida,"Palliduphantes pallidus (O. Pickard-Cambridge, 1871)",Palliduphantes pallidus
+species:cdnom:1320,species:cdnom:1320,genus:Asagena,family:Theridiidae,species,cdnom:1320,Asagena phalerata,Asagena,Theridiidae,Araneae,Arachnida,"Asagena phalerata (Panzer, 1800)",Asagena phalerata
+species:cdnom:1271,species:cdnom:1271,genus:Euryopis,family:Theridiidae,species,cdnom:1271,Euryopis flavomaculata,Euryopis,Theridiidae,Araneae,Arachnida,"Euryopis flavomaculata (C.L. Koch, 1836)",Euryopis flavomaculata
+species:cdnom:836055,species:cdnom:836055,genus:Centromerus,family:Linyphiidae,species,cdnom:836055,Centromerus brevipalpus,Centromerus,Linyphiidae,Araneae,Arachnida,"Centromerus brevipalpus (Menge, 1866)",Centromerus brevipalpus
+species:cdnom:1377,species:cdnom:1377,genus:Centromerus,family:Linyphiidae,species,cdnom:1377,Centromerus sylvaticus,Centromerus,Linyphiidae,Araneae,Arachnida,"Centromerus sylvaticus (Blackwall, 1841)",Centromerus sylvaticus
+species:cdnom:233788,species:cdnom:233788,genus:Tenuiphantes,family:Linyphiidae,species,cdnom:233788,Tenuiphantes zimmermanni,Tenuiphantes,Linyphiidae,Araneae,Arachnida,"Tenuiphantes zimmermanni (Bertkau, 1890)",Tenuiphantes zimmermanni
+species:cdnom:233861,species:cdnom:233861,genus:Liocranoeca,family:Liocranidae,species,cdnom:233861,Liocranoeca striata,Liocranoeca,Liocranidae,Araneae,Arachnida,"Liocranoeca striata (Kulczy?ski, 1882)",Liocranoeca striata
+genus:Dysdera,NA,genus:Dysdera,family:Dysderidae,genus,NA,NA,Dysdera,Dysderidae,Araneae,Arachnida,"Dysdera Latreille, 1804",Dysdera
+genus:Phrurolithus,NA,genus:Phrurolithus,family:Phrurolithidae,genus,NA,NA,Phrurolithus,Phrurolithidae,Araneae,Arachnida,"Phrurolithus C. L. Koch, 1839",Phrurolithus
+genus:Araniella,NA,genus:Araniella,family:Araneidae,genus,NA,NA,Araniella,Araneidae,Araneae,Arachnida,"Araniella Chamberlin & Ivie, 1942",Araniella
+genus:Arctosa,NA,genus:Arctosa,family:Lycosidae,genus,NA,NA,Arctosa,Lycosidae,Araneae,Arachnida,"Arctosa Koch, 1847",Arctosa
+species:cdnom:1442,species:cdnom:1442,genus:Dicymbium,family:Linyphiidae,species,cdnom:1442,Dicymbium nigrum,Dicymbium,Linyphiidae,Araneae,Arachnida,"Dicymbium nigrum (Blackwall, 1834)",Dicymbium nigrum
+genus:Oedothorax,NA,genus:Oedothorax,family:Linyphiidae,genus,NA,NA,Oedothorax,Linyphiidae,Araneae,Arachnida,"Oedothorax Bertkau, 1883",Oedothorax
+species:cdnom:234067,species:cdnom:234067,genus:Pachygnatha,family:Tetragthidae,species,cdnom:234067,Pachygnatha clercki,Pachygnatha,Tetragthidae,Araneae,Arachnida,"Pachygnatha clercki Sundevall, 1823",Pachygnatha clercki
+species:cdnom:1437,species:cdnom:1437,genus:Bathyphantes,family:Linyphiidae,species,cdnom:1437,Bathyphantes gracilis,Bathyphantes,Linyphiidae,Araneae,Arachnida,"Bathyphantes gracilis (Blackwall, 1841)",Bathyphantes gracilis
+species:cdnom:1392,species:cdnom:1392,genus:Centromerita,family:Linyphiidae,species,cdnom:1392,Centromerita bicolor,Centromerita,Linyphiidae,Araneae,Arachnida,"Centromerita bicolor (Blackwall, 1833)",Centromerita bicolor
+species:cdnom:1457,species:cdnom:1457,genus:Gongylidiellum,family:Linyphiidae,species,cdnom:1457,Gongylidiellum vivum,Gongylidiellum,Linyphiidae,Araneae,Arachnida,"Gongylidiellum vivum (O. Pickard-Cambridge, 1875)",Gongylidiellum vivum
+species:cdnom:1425,species:cdnom:1425,genus:Tiso,family:Linyphiidae,species,cdnom:1425,Tiso vagans,Tiso,Linyphiidae,Araneae,Arachnida,"Tiso vagans (Blackwall, 1834)",Tiso vagans
+species:cdnom:233318,species:cdnom:233318,genus:Drassyllus,family:Gphosidae,species,cdnom:233318,Drassyllus praeficus,Drassyllus,Gphosidae,Araneae,Arachnida,"Drassyllus praeficus (L. Koch, 1866)",Drassyllus praeficus
+species:cdnom:1184,species:cdnom:1184,genus:Haplodrassus,family:Gphosidae,species,cdnom:1184,Haplodrassus dalmatensis,Haplodrassus,Gphosidae,Araneae,Arachnida,"Haplodrassus dalmatensis (L. Koch, 1866)",Haplodrassus dalmatensis
+species:cdnom:233350,species:cdnom:233350,genus:Micaria,family:Gphosidae,species,cdnom:233350,Micaria albovittata,Micaria,Gphosidae,Araneae,Arachnida,"Micaria albovittata (Lucas, 1846)",Micaria albovittata
+species:cdnom:233379,species:cdnom:233379,genus:Setaphis,family:Gphosidae,species,cdnom:233379,Setaphis carmeli,Setaphis,Gphosidae,Araneae,Arachnida,"Setaphis carmeli (O. Pickard-Cambridge, 1872)",Setaphis carmeli
+species:cdnom:1926,species:cdnom:1926,genus:Pardosa,family:Lycosidae,species,cdnom:1926,Pardosa agrestis,Pardosa,Lycosidae,Araneae,Arachnida,"Pardosa agrestis (Westring, 1861)",Pardosa agrestis
+species:cdnom:1643,species:cdnom:1643,genus:Xysticus,family:Thomisidae,species,cdnom:1643,Xysticus kochi,Xysticus,Thomisidae,Araneae,Arachnida,"Xysticus kochi Thorell, 1872",Xysticus kochi
+species:cdnom:1237,species:cdnom:1237,genus:Zodarion,family:Zodariidae,species,cdnom:1237,Zodarion italicum,Zodarion,Zodariidae,Araneae,Arachnida,"Zodarion italicum (Canestrini, 1868)",Zodarion italicum
+species:cdnom:1085,species:cdnom:1085,genus:Argenna,family:Dictynidae,species,cdnom:1085,Argenna subnigra,Argenna,Dictynidae,Araneae,Arachnida,"Argenna subnigra (O. Pickard-Cambridge, 1861)",Argenna subnigra
+species:cdnom:233466,species:cdnom:233466,genus:Araeoncus,family:Linyphiidae,species,cdnom:233466,Araeoncus humilis,Araeoncus,Linyphiidae,Araneae,Arachnida,"Araeoncus humilis (Blackwall, 1841)",Araeoncus humilis
+species:cdnom:1445,species:cdnom:1445,genus:Erigone,family:Linyphiidae,species,cdnom:1445,Erigone atra,Erigone,Linyphiidae,Araneae,Arachnida,"Erigone atra Blackwall, 1833",Erigone atra
+species:cdnom:836361,species:cdnom:836361,genus:Erigone,family:Linyphiidae,species,cdnom:836361,Erigone autumnalis,Erigone,Linyphiidae,Araneae,Arachnida,"Erigone autumnalis Emerton, 1882",Erigone autumnalis
+species:cdnom:233688,species:cdnom:233688,genus:Oedothorax,family:Linyphiidae,species,cdnom:233688,Oedothorax apicatus,Oedothorax,Linyphiidae,Araneae,Arachnida,"Oedothorax apicatus (Blackwall, 1850)",Oedothorax apicatus
+species:cdnom:1474,species:cdnom:1474,genus:Oedothorax,family:Linyphiidae,species,cdnom:1474,Oedothorax retusus,Oedothorax,Linyphiidae,Araneae,Arachnida,"Oedothorax retusus (Westring, 1851)",Oedothorax retusus
+species:cdnom:1929,species:cdnom:1929,genus:Pardosa,family:Lycosidae,species,cdnom:1929,Pardosa proxima,Pardosa,Lycosidae,Araneae,Arachnida,"Pardosa proxima (C.L. Koch, 1847)",Pardosa proxima
+species:cdnom:1937,species:cdnom:1937,genus:Pardosa,family:Lycosidae,species,cdnom:1937,Pardosa vittata,Pardosa,Lycosidae,Araneae,Arachnida,"Pardosa vittata (Keyserling, 1863)",Pardosa vittata
+species:cdnom:233973,species:cdnom:233973,genus:Chalcoscirtus,family:Salticidae,species,cdnom:233973,Chalcoscirtus infimus,Chalcoscirtus,Salticidae,Araneae,Arachnida,"Chalcoscirtus infimus (Simon, 1869)",Chalcoscirtus infimus
+species:cdnom:458766,species:cdnom:458766,genus:Mermessus,family:Linyphiidae,species,cdnom:458766,Mermessus trilobatus,Mermessus,Linyphiidae,Araneae,Arachnida,"Mermessus trilobatus (Emerton, 1882)",Mermessus trilobatus
+species:cdnom:233876,species:cdnom:233876,genus:Hogna,family:Lycosidae,species,cdnom:233876,Hogna radiata,Hogna,Lycosidae,Araneae,Arachnida,"Hogna radiata (Latreille, 1817)",Hogna radiata
+species:cdnom:233426,species:cdnom:233426,genus:Zelotes,family:Gphosidae,species,cdnom:233426,Zelotes tenuis,Zelotes,Gphosidae,Araneae,Arachnida,"Zelotes tenuis (L. Koch, 1866)",Zelotes tenuis
+species:cdnom:234053,species:cdnom:234053,genus:Talavera,family:Salticidae,species,cdnom:234053,Talavera aequipes,Talavera,Salticidae,Araneae,Arachnida,"Talavera aequipes (O. Pickard-Cambridge, 1871)",Talavera aequipes
+genus:Episinus,NA,genus:Episinus,family:Theridiidae,genus,NA,NA,Episinus,Theridiidae,Araneae,Arachnida,"Episinus Latreille, 1809",Episinus
+species:cdnom:1065,species:cdnom:1065,genus:Amaurobius,family:Amaurobiidae,species,cdnom:1065,Amaurobius erberi,Amaurobius,Amaurobiidae,Araneae,Arachnida,"Amaurobius erberi (Keyserling, 1863)",Amaurobius erberi
+species:cdnom:1640,species:cdnom:1640,genus:Xysticus,family:Thomisidae,species,cdnom:1640,Xysticus cristatus,Xysticus,Thomisidae,Araneae,Arachnida,"Xysticus cristatus (Clerck, 1758)",Xysticus cristatus
+species:cdnom:234176,species:cdnom:234176,genus:Xysticus,family:Thomisidae,species,cdnom:234176,Xysticus kempeleni,Xysticus,Thomisidae,Araneae,Arachnida,"Xysticus kempeleni Thorell, 1872",Xysticus kempeleni
+species:cdnom:1174,species:cdnom:1174,genus:Drassodes,family:Gphosidae,species,cdnom:1174,Drassodes lapidosus,Drassodes,Gphosidae,Araneae,Arachnida,"Drassodes lapidosus (Walckenaer, 1802)",Drassodes lapidosus
+species:cdnom:921,species:cdnom:921,genus:Xerolycosa,family:Lycosidae,species,cdnom:921,Xerolycosa nemoralis,Xerolycosa,Lycosidae,Araneae,Arachnida,"Xerolycosa nemoralis (Westring, 1861)",Xerolycosa nemoralis
+family:Hahniidae,NA,NA,family:Hahniidae,family,NA,NA,NA,Hahniidae,Araneae,Arachnida,"Hahniidae Bertkau, 1878",Hahniidae
+species:cdnom:233665,species:cdnom:233665,genus:Micrargus,family:Linyphiidae,species,cdnom:233665,Micrargus subaequalis,Micrargus,Linyphiidae,Araneae,Arachnida,"Micrargus subaequalis (Westring, 1851)",Micrargus subaequalis
+species:cdnom:234026,species:cdnom:234026,genus:Pseudeuophrys,family:Salticidae,species,cdnom:234026,Pseudeuophrys erratica,Pseudeuophrys,Salticidae,Araneae,Arachnida,"Pseudeuophrys erratica (Walckenaer, 1826)",Pseudeuophrys erratica
+genus:Drassodes,NA,genus:Drassodes,family:Gphosidae,genus,NA,NA,Drassodes,Gphosidae,Araneae,Arachnida,"Drassodes Westring, 1851",Drassodes
+species:cdnom:302882,species:cdnom:302882,genus:Haplodrassus,family:Gphosidae,species,cdnom:302882,Haplodrassus minor,Haplodrassus,Gphosidae,Araneae,Arachnida,"Haplodrassus minor (O. Pickard-Cambridge, 1879)",Haplodrassus minor
+species:cdnom:457346,species:cdnom:457346,genus:Trochosa,family:Lycosidae,species,cdnom:457346,Trochosa robusta,Trochosa,Lycosidae,Araneae,Arachnida,"Trochosa robusta (Simon, 1876)",Trochosa robusta
+species:cdnom:1930,species:cdnom:1930,genus:Pardosa,family:Lycosidae,species,cdnom:1930,Pardosa lugubris,Pardosa,Lycosidae,Araneae,Arachnida,"Pardosa lugubris (Walckenaer, 1802)",Pardosa lugubris
+species:cdnom:233572,species:cdnom:233572,genus:Glyphesis,family:Linyphiidae,species,cdnom:233572,Glyphesis servulus,Glyphesis,Linyphiidae,Araneae,Arachnida,"Glyphesis servulus (Simon, 1881)",Glyphesis servulus
+species:cdnom:1923,species:cdnom:1923,genus:Pardosa,family:Lycosidae,species,cdnom:1923,Pardosa amentata,Pardosa,Lycosidae,Araneae,Arachnida,"Pardosa amentata (Clerck, 1758)",Pardosa amentata
+species:cdnom:303203,species:cdnom:303203,genus:Collinsia,family:Linyphiidae,species,cdnom:303203,Collinsia inerrans,Collinsia,Linyphiidae,Araneae,Arachnida,"Collinsia inerrans (O. Pickard-Cambridge, 1885)",Collinsia inerrans
+species:cdnom:234119,species:cdnom:234119,genus:Steatoda,family:Theridiidae,species,cdnom:234119,Steatoda albomaculata,Steatoda,Theridiidae,Araneae,Arachnida,"Steatoda albomaculata (De Geer, 1778)",Steatoda albomaculata
+species:cdnom:233570,species:cdnom:233570,genus:Erigonoplus,family:Linyphiidae,species,cdnom:233570,Erigonoplus turriger,Erigonoplus,Linyphiidae,Araneae,Arachnida,"Erigonoplus turriger (Simon, 1881)",Erigonoplus turriger
+species:cdnom:1207,species:cdnom:1207,genus:Zelotes,family:Gphosidae,species,cdnom:1207,Zelotes petrensis,Zelotes,Gphosidae,Araneae,Arachnida,"Zelotes petrensis (C.L. Koch, 1839)",Zelotes petrensis
+species:cdnom:719974,species:cdnom:719974,genus:Eratigena,family:Agelenidae,species,cdnom:719974,Eratigena fuesslini,Eratigena,Agelenidae,Araneae,Arachnida,"Eratigena fuesslini (Pavesi, 1873)",Eratigena fuesslini
+species:cdnom:193079,species:cdnom:193079,NA,family:Gphosidae,species,cdnom:193079,NA,NA,Gphosidae,Araneae,Arachnida,"Haplodrassus Chamberlin, 1922",Haplodrassus
+genus:Xysticus,NA,genus:Xysticus,family:Thomisidae,genus,NA,NA,Xysticus,Thomisidae,Araneae,Arachnida,"Xysticus C.L. Koch, 1835",Xysticus
+species:cdnom:233802,species:cdnom:233802,genus:Trichoncus,family:Linyphiidae,species,cdnom:233802,Trichoncus sordidus,Trichoncus,Linyphiidae,Araneae,Arachnida,"Trichoncus sordidus Simon, 1884",Trichoncus sordidus
+species:cdnom:234094,species:cdnom:234094,genus:Enoplognatha,family:Theridiidae,species,cdnom:234094,Enoplognatha gemina,Enoplognatha,Theridiidae,Araneae,Arachnida,"Enoplognatha gemina Bosmans & Van Keer, 1999",Enoplognatha gemina
+species:cdnom:1440,species:cdnom:1440,genus:Trichoncus,family:Linyphiidae,species,cdnom:1440,Trichoncus saxicola,Trichoncus,Linyphiidae,Araneae,Arachnida,"Trichoncus saxicola (O. Pickard-Cambridge, 1861)",Trichoncus saxicola
+species:cdnom:1660,species:cdnom:1660,genus:Xysticus,family:Thomisidae,species,cdnom:1660,Xysticus acerbus,Xysticus,Thomisidae,Araneae,Arachnida,"Xysticus acerbus Thorell, 1872",Xysticus acerbus
+family:Dictynidae,NA,NA,family:Dictynidae,family,NA,NA,NA,Dictynidae,Araneae,Arachnida,"Dictynidae O. Pickard-Cambridge, 1871",Dictynidae
+species:cdnom:806890,species:cdnom:806890,genus:Agyneta,family:Linyphiidae,species,cdnom:806890,Agyneta simplicitarsis,Agyneta,Linyphiidae,Araneae,Arachnida,"Agyneta simplicitarsis (Simon, 1884)",Agyneta simplicitarsis
+species:cdnom:1896,species:cdnom:1896,genus:Alopecosa,family:Lycosidae,species,cdnom:1896,Alopecosa cuneata,Alopecosa,Lycosidae,Araneae,Arachnida,"Alopecosa cuneata (Clerck, 1758)",Alopecosa cuneata
+species:cdnom:906427,species:cdnom:906427,genus:Piratula,family:Lycosidae,species,cdnom:906427,Piratula uliginosa,Piratula,Lycosidae,Araneae,Arachnida,"Piratula uliginosa (Thorell, 1856)",Piratula uliginosa
+family:Theridiidae,NA,NA,family:Theridiidae,family,NA,NA,NA,Theridiidae,Araneae,Arachnida,"Theridiidae Sundevall, 1833",Theridiidae
+species:cdnom:233741,species:cdnom:233741,genus:Porrhomma,family:Linyphiidae,species,cdnom:233741,Porrhomma microphthalmum,Porrhomma,Linyphiidae,Araneae,Arachnida,"Porrhomma microphthalmum (O. Pickard-Cambridge, 1871)",Porrhomma microphthalmum
+species:cdnom:233491,species:cdnom:233491,genus:Centromerus,family:Linyphiidae,species,cdnom:233491,Centromerus capucinus,Centromerus,Linyphiidae,Araneae,Arachnida,"Centromerus capucinus (Simon, 1884)",Centromerus capucinus
+species:cdnom:233879,species:cdnom:233879,genus:Pardosa,family:Lycosidae,species,cdnom:233879,Pardosa bifasciata,Pardosa,Lycosidae,Araneae,Arachnida,"Pardosa bifasciata (C.L. Koch, 1834)",Pardosa bifasciata
+species:cdnom:1492,species:cdnom:1492,genus:Tapinocyba,family:Linyphiidae,species,cdnom:1492,Tapinocyba praecox,Tapinocyba,Linyphiidae,Araneae,Arachnida,"Tapinocyba praecox (O. Pickard-Cambridge, 1873)",Tapinocyba praecox
+species:cdnom:1899,species:cdnom:1899,genus:Alopecosa,family:Lycosidae,species,cdnom:1899,Alopecosa striatipes,Alopecosa,Lycosidae,Araneae,Arachnida,"Alopecosa striatipes (C.L. Koch, 1839)",Alopecosa striatipes
+species:cdnom:234156,species:cdnom:234156,genus:Ozyptila,family:Thomisidae,species,cdnom:234156,Ozyptila claveata,Ozyptila,Thomisidae,Araneae,Arachnida,"Ozyptila claveata (Walckenaer, 1837)",Ozyptila claveata
+family:Thomisidae,NA,NA,family:Thomisidae,family,NA,NA,NA,Thomisidae,Araneae,Arachnida,"Thomisidae Sundevall, 1833",Thomisidae
+genus:Agyneta,NA,genus:Agyneta,family:Linyphiidae,genus,NA,NA,Agyneta,Linyphiidae,Araneae,Arachnida,"Agyneta Hull, 1911",Agyneta
+genus:Alopecosa,NA,genus:Alopecosa,family:Lycosidae,genus,NA,NA,Alopecosa,Lycosidae,Araneae,Arachnida,"Alopecosa Simon, 1885",Alopecosa
+species:cdnom:304684,species:cdnom:304684,genus:Theridion,family:Theridiidae,species,cdnom:304684,Theridion uhligi,Theridion,Theridiidae,Araneae,Arachnida,"Theridion uhligi Martin, 1974",Theridion uhligi
+species:cdnom:457386,species:cdnom:457386,genus:Thanatus,family:Philodromidae,species,cdnom:457386,Thanatus arenarius,Thanatus,Philodromidae,Araneae,Arachnida,"Thanatus arenarius L. Koch in Thorell, 1872",Thanatus arenarius
+genus:Walckenaeria,NA,genus:Walckenaeria,family:Linyphiidae,genus,NA,NA,Walckenaeria,Linyphiidae,Araneae,Arachnida,"Walckenaeria Blackwall, 1833",Walckenaeria
+species:cdnom:2015,species:cdnom:2015,genus:Phlegra,family:Salticidae,species,cdnom:2015,Phlegra fasciata,Phlegra,Salticidae,Araneae,Arachnida,"Phlegra fasciata (Hahn, 1826)",Phlegra fasciata
+species:cdnom:233427,species:cdnom:233427,genus:Zelotes,family:Gphosidae,species,cdnom:233427,Zelotes thorelli,Zelotes,Gphosidae,Araneae,Arachnida,"Zelotes thorelli Simon, 1914",Zelotes thorelli
+species:cdnom:233246,species:cdnom:233246,genus:Liophrurillus,family:Phrurolithidae,species,cdnom:233246,Liophrurillus flavitarsis,Liophrurillus,Phrurolithidae,Araneae,Arachnida,"Liophrurillus flavitarsis (Lucas, 1846)",Liophrurillus flavitarsis
+species:cdnom:233281,species:cdnom:233281,genus:Harpactea,family:Dysderidae,species,cdnom:233281,Harpactea arguta,Harpactea,Dysderidae,Araneae,Arachnida,"Harpactea arguta (Simon, 1907)",Harpactea arguta
+species:cdnom:233782,species:cdnom:233782,genus:Tenuiphantes,family:Linyphiidae,species,cdnom:233782,Tenuiphantes herbicola,Tenuiphantes,Linyphiidae,Araneae,Arachnida,"Tenuiphantes herbicola (Simon, 1884)",Tenuiphantes herbicola
+species:cdnom:233713,species:cdnom:233713,genus:Panamomops,family:Linyphiidae,species,cdnom:233713,Panamomops sulcifrons,Panamomops,Linyphiidae,Araneae,Arachnida,"Panamomops sulcifrons (Wider, 1834)",Panamomops sulcifrons
+species:cdnom:1882,species:cdnom:1882,genus:Pisaura,family:Pisauridae,species,cdnom:1882,Pisaura mirabilis,Pisaura,Pisauridae,Araneae,Arachnida,"Pisaura mirabilis (Clerck, 1758)",Pisaura mirabilis
+species:cdnom:233885,species:cdnom:233885,genus:Pardosa,family:Lycosidae,species,cdnom:233885,Pardosa paludicola,Pardosa,Lycosidae,Araneae,Arachnida,"Pardosa paludicola (Clerck, 1758)",Pardosa paludicola
+genus:Clubiona,NA,genus:Clubiona,family:Clubionidae,genus,NA,NA,Clubiona,Clubionidae,Araneae,Arachnida,"Clubiona Latreille, 1804",Clubiona
+species:cdnom:233827,species:cdnom:233827,genus:Walckenaeria,family:Linyphiidae,species,cdnom:233827,Walckenaeria acuminata,Walckenaeria,Linyphiidae,Araneae,Arachnida,"Walckenaeria acuminata Blackwall, 1833",Walckenaeria acuminata
+species:cdnom:1777,species:cdnom:1777,genus:Agroeca,family:Liocranidae,species,cdnom:1777,Agroeca inopina,Agroeca,Liocranidae,Araneae,Arachnida,"Agroeca inopina O. Pickard-Cambridge, 1886",Agroeca inopina
+species:cdnom:1904,species:cdnom:1904,genus:Arctosa,family:Lycosidae,species,cdnom:1904,Arctosa perita,Arctosa,Lycosidae,Araneae,Arachnida,"Arctosa perita (Latreille, 1799)",Arctosa perita
+species:cdnom:233831,species:cdnom:233831,genus:Walckenaeria,family:Linyphiidae,species,cdnom:233831,Walckenaeria capito,Walckenaeria,Linyphiidae,Araneae,Arachnida,"Walckenaeria capito (Westring, 1861)",Walckenaeria capito
+species:cdnom:1002034,species:cdnom:1002034,genus:Marinarozelotes,family:Gphosidae,species,cdnom:1002034,Marinarozelotes fuscipes,Marinarozelotes,Gphosidae,Araneae,Arachnida,"Marinarozelotes fuscipes (L. Koch, 1866)",Marinarozelotes fuscipes
+species:cdnom:233568,species:cdnom:233568,genus:Erigonoplus,family:Linyphiidae,species,cdnom:233568,Erigonoplus justus,Erigonoplus,Linyphiidae,Araneae,Arachnida,"Erigonoplus justus (O. Pickard-Cambridge, 1875)",Erigonoplus justus
+genus:Micaria,NA,genus:Micaria,family:Gphosidae,genus,NA,NA,Micaria,Gphosidae,Araneae,Arachnida,"Micaria Westring, 1851",Micaria
+species:cdnom:233516,species:cdnom:233516,genus:Dicymbium,family:Linyphiidae,species,cdnom:233516,Dicymbium tibiale,Dicymbium,Linyphiidae,Araneae,Arachnida,"Dicymbium tibiale (Blackwall, 1836)",Dicymbium tibiale
+species:cdnom:233750,species:cdnom:233750,genus:Savignia,family:Linyphiidae,species,cdnom:233750,Savignia frontata,Savignia,Linyphiidae,Araneae,Arachnida,"Savignia frontata Blackwall, 1833",Savignia frontata
+species:cdnom:1334,species:cdnom:1334,genus:Robertus,family:Theridiidae,species,cdnom:1334,Robertus neglectus,Robertus,Theridiidae,Araneae,Arachnida,"Robertus neglectus (O. Pickard-Cambridge, 1871)",Robertus neglectus
+species:cdnom:1709,species:cdnom:1709,genus:Micrommata,family:Sparassidae,species,cdnom:1709,Micrommata virescens,Micrommata,Sparassidae,Araneae,Arachnida,"Micrommata virescens (Clerck, 1758)",Micrommata virescens
+species:cdnom:1204,species:cdnom:1204,genus:Zelotes,family:Gphosidae,species,cdnom:1204,Zelotes latreillei,Zelotes,Gphosidae,Araneae,Arachnida,"Zelotes latreillei (Simon, 1878)",Zelotes latreillei
+species:cdnom:1933,species:cdnom:1933,genus:Pardosa,family:Lycosidae,species,cdnom:1933,Pardosa nigriceps,Pardosa,Lycosidae,Araneae,Arachnida,"Pardosa nigriceps (Thorell, 1856)",Pardosa nigriceps
+species:cdnom:1756,species:cdnom:1756,genus:Zora,family:Miturgidae,species,cdnom:1756,Zora parallela,Zora,Miturgidae,Araneae,Arachnida,"Zora parallela Simon, 1878",Zora parallela
+species:cdnom:1778,species:cdnom:1778,genus:Agroeca,family:Liocranidae,species,cdnom:1778,Agroeca lusatica,Agroeca,Liocranidae,Araneae,Arachnida,"Agroeca lusatica (L. Koch, 1875)",Agroeca lusatica
+species:cdnom:1500,species:cdnom:1500,genus:Sintula,family:Linyphiidae,species,cdnom:1500,Sintula retroversus,Sintula,Linyphiidae,Araneae,Arachnida,"Sintula retroversus (O. Pickard-Cambridge, 1875)",Sintula retroversus
+species:cdnom:1647,species:cdnom:1647,genus:Xysticus,family:Thomisidae,species,cdnom:1647,Xysticus erraticus,Xysticus,Thomisidae,Araneae,Arachnida,"Xysticus erraticus (Blackwall, 1834)",Xysticus erraticus
+genus:Talavera,NA,genus:Talavera,family:Salticidae,genus,NA,NA,Talavera,Salticidae,Araneae,Arachnida,"Talavera Peckham & Peckham, 1909",Talavera
+species:cdnom:1205,species:cdnom:1205,genus:Zelotes,family:Gphosidae,species,cdnom:1205,Zelotes longipes,Zelotes,Gphosidae,Araneae,Arachnida,"Zelotes longipes (L. Koch, 1866)",Zelotes longipes
+species:cdnom:233726,species:cdnom:233726,genus:Pelecopsis,family:Linyphiidae,species,cdnom:233726,Pelecopsis radicicola,Pelecopsis,Linyphiidae,Araneae,Arachnida,"Pelecopsis radicicola (L. Koch, 1872)",Pelecopsis radicicola
+species:cdnom:233829,species:cdnom:233829,genus:Walckenaeria,family:Linyphiidae,species,cdnom:233829,Walckenaeria antica,Walckenaeria,Linyphiidae,Araneae,Arachnida,"Walckenaeria antica (Wider, 1834)",Walckenaeria antica
+species:cdnom:233529,species:cdnom:233529,genus:Diplocephalus,family:Linyphiidae,species,cdnom:233529,Diplocephalus latifrons,Diplocephalus,Linyphiidae,Araneae,Arachnida,"Diplocephalus latifrons (O. Pickard-Cambridge, 1863)",Diplocephalus latifrons
+species:cdnom:233844,species:cdnom:233844,genus:Walckenaeria,family:Linyphiidae,species,cdnom:233844,Walckenaeria monoceros,Walckenaeria,Linyphiidae,Araneae,Arachnida,"Walckenaeria monoceros (Wider, 1834)",Walckenaeria monoceros
+genus:Centromerus,NA,genus:Centromerus,family:Linyphiidae,genus,NA,NA,Centromerus,Linyphiidae,Araneae,Arachnida,"Centromerus Dahl, 1886",Centromerus
+species:cdnom:233894,species:cdnom:233894,genus:Trochosa,family:Lycosidae,species,cdnom:233894,Trochosa hispanica,Trochosa,Lycosidae,Araneae,Arachnida,"Trochosa hispanica Simon, 1870",Trochosa hispanica
+species:cdnom:458715,species:cdnom:458715,genus:Panamomops,family:Linyphiidae,species,cdnom:458715,Panamomops mutilus,Panamomops,Linyphiidae,Araneae,Arachnida,"Panamomops mutilus (Denis, 1962)",Panamomops mutilus
+species:cdnom:233734,species:cdnom:233734,genus:Pocadicnemis,family:Linyphiidae,species,cdnom:233734,Pocadicnemis juncea,Pocadicnemis,Linyphiidae,Araneae,Arachnida,"Pocadicnemis juncea Locket & Millidge, 1953",Pocadicnemis juncea
+genus:Agroeca,NA,genus:Agroeca,family:Liocranidae,genus,NA,NA,Agroeca,Liocranidae,Araneae,Arachnida,"Agroeca Westring, 1861",Agroeca
+species:cdnom:902,species:cdnom:902,genus:Ero,family:Mimetidae,species,cdnom:902,Ero furcata,Ero,Mimetidae,Araneae,Arachnida,"Ero furcata (Villers, 1789)",Ero furcata
+species:cdnom:233854,species:cdnom:233854,genus:Agraecina,family:Liocranidae,species,cdnom:233854,Agraecina lineata,Agraecina,Liocranidae,Araneae,Arachnida,"Agraecina lineata (Simon, 1878)",Agraecina lineata
+genus:Parapelecopsis,NA,genus:Parapelecopsis,family:Linyphiidae,genus,NA,NA,Parapelecopsis,Linyphiidae,Araneae,Arachnida,"Parapelecopsis Wunderlich, 1992",Parapelecopsis
+species:cdnom:233401,species:cdnom:233401,genus:Zelotes,family:Gphosidae,species,cdnom:233401,Zelotes fulvopilosus,Zelotes,Gphosidae,Araneae,Arachnida,"Zelotes fulvopilosus (Simon, 1878)",Zelotes fulvopilosus
+species:cdnom:1275,species:cdnom:1275,genus:Euryopis,family:Theridiidae,species,cdnom:1275,Euryopis dentigera,Euryopis,Theridiidae,Araneae,Arachnida,"Euryopis dentigera Simon, 1880",Euryopis dentigera
+species:cdnom:233607,species:cdnom:233607,genus:Lasiargus,family:Linyphiidae,species,cdnom:233607,Lasiargus hirsutus,Lasiargus,Linyphiidae,Araneae,Arachnida,"Lasiargus hirsutus (Menge, 1869)",Lasiargus hirsutus
+species:cdnom:1216,species:cdnom:1216,genus:Poecilochroa,family:Gphosidae,species,cdnom:1216,Poecilochroa variana,Poecilochroa,Gphosidae,Araneae,Arachnida,"Poecilochroa variana (C.L. Koch, 1839)",Poecilochroa variana
+genus:Asagena,NA,genus:Asagena,family:Theridiidae,genus,NA,NA,Asagena,Theridiidae,Araneae,Arachnida,"Asagena Sundevall, 1833",Asagena
+species:cdnom:1176,species:cdnom:1176,genus:Drassodes,family:Gphosidae,species,cdnom:1176,Drassodes pubescens,Drassodes,Gphosidae,Araneae,Arachnida,"Drassodes pubescens (Thorell, 1856)",Drassodes pubescens
+genus:Eresus,NA,genus:Eresus,family:Eresidae,genus,NA,NA,Eresus,Eresidae,Araneae,Arachnida,"Eresus C. L. Koch, 1845",Eresus
+genus:Metopobactrus,NA,genus:Metopobactrus,family:Linyphiidae,genus,NA,NA,Metopobactrus,Linyphiidae,Araneae,Arachnida,"Metopobactrus Simon, 1884",Metopobactrus
+species:cdnom:1417,species:cdnom:1417,genus:Microlinyphia,family:Linyphiidae,species,cdnom:1417,Microlinyphia pusilla,Microlinyphia,Linyphiidae,Araneae,Arachnida,"Microlinyphia pusilla (Sundevall, 1830)",Microlinyphia pusilla
+family:Salticidae,NA,NA,family:Salticidae,family,NA,NA,NA,Salticidae,Araneae,Arachnida,"Salticidae Blackwall, 1841",Salticidae
+species:cdnom:233425,species:cdnom:233425,genus:Zelotes,family:Gphosidae,species,cdnom:233425,Zelotes talpinus,Zelotes,Gphosidae,Araneae,Arachnida,"Zelotes talpinus (L. Koch, 1872)",Zelotes talpinus
+species:cdnom:233524,species:cdnom:233524,genus:Diplocephalus,family:Linyphiidae,species,cdnom:233524,Diplocephalus cristatus,Diplocephalus,Linyphiidae,Araneae,Arachnida,"Diplocephalus cristatus (Blackwall, 1833)",Diplocephalus cristatus
+genus:Hahnia,NA,genus:Hahnia,family:Hahniidae,genus,NA,NA,Hahnia,Hahniidae,Araneae,Arachnida,"Hahnia C. L. Koch, 1841",Hahnia
+species:cdnom:1264,species:cdnom:1264,genus:Episinus,family:Theridiidae,species,cdnom:1264,Episinus angulatus,Episinus,Theridiidae,Araneae,Arachnida,"Episinus angulatus (Blackwall, 1836)",Episinus angulatus
+genus:Robertus,NA,genus:Robertus,family:Theridiidae,genus,NA,NA,Robertus,Theridiidae,Araneae,Arachnida,"Robertus O. P.-Cambridge, 1879",Robertus
+species:cdnom:1726,species:cdnom:1726,genus:Clubiona,family:Clubionidae,species,cdnom:1726,Clubiona terrestris,Clubiona,Clubionidae,Araneae,Arachnida,"Clubiona terrestris Westring, 1851",Clubiona terrestris
+species:cdnom:233285,species:cdnom:233285,genus:Harpactea,family:Dysderidae,species,cdnom:233285,Harpactea lepida,Harpactea,Dysderidae,Araneae,Arachnida,"Harpactea lepida (C.L. Koch, 1838)",Harpactea lepida
+species:cdnom:233571,species:cdnom:233571,genus:Evansia,family:Linyphiidae,species,cdnom:233571,Evansia merens,Evansia,Linyphiidae,Araneae,Arachnida,"Evansia merens O. Pickard-Cambridge, 1901",Evansia merens
+species:cdnom:1336,species:cdnom:1336,genus:Robertus,family:Theridiidae,species,cdnom:1336,Robertus arundineti,Robertus,Theridiidae,Araneae,Arachnida,"Robertus arundineti (O. Pickard-Cambridge, 1871)",Robertus arundineti
+species:cdnom:233763,species:cdnom:233763,genus:Styloctetor,family:Linyphiidae,species,cdnom:233763,Styloctetor romanus,Styloctetor,Linyphiidae,Araneae,Arachnida,"Styloctetor romanus (O. Pickard-Cambridge, 1873)",Styloctetor romanus
+species:cdnom:836053,species:cdnom:836053,genus:Styloctetor,family:Linyphiidae,species,cdnom:836053,Styloctetor compar,Styloctetor,Linyphiidae,Araneae,Arachnida,"Styloctetor compar (Westring, 1861)",Styloctetor compar
+species:cdnom:233821,species:cdnom:233821,genus:Troxochrus,family:Linyphiidae,species,cdnom:233821,Troxochrus scabriculus,Troxochrus,Linyphiidae,Araneae,Arachnida,"Troxochrus scabriculus (Westring, 1851)",Troxochrus scabriculus
+species:cdnom:233856,species:cdnom:233856,genus:Apostenus,family:Liocranidae,species,cdnom:233856,Apostenus fuscus,Apostenus,Liocranidae,Araneae,Arachnida,"Apostenus fuscus Westring, 1851",Apostenus fuscus
+species:cdnom:1182,species:cdnom:1182,genus:Haplodrassus,family:Gphosidae,species,cdnom:1182,Haplodrassus silvestris,Haplodrassus,Gphosidae,Araneae,Arachnida,"Haplodrassus silvestris (Blackwall, 1833)",Haplodrassus silvestris
+species:cdnom:1874,species:cdnom:1874,genus:Hahnia,family:Hahniidae,species,cdnom:1874,Hahnia pusilla,Hahnia,Hahniidae,Araneae,Arachnida,"Hahnia pusilla C.L. Koch, 1841",Hahnia pusilla
+species:cdnom:233317,species:cdnom:233317,genus:Drassyllus,family:Gphosidae,species,cdnom:233317,Drassyllus lutetianus,Drassyllus,Gphosidae,Araneae,Arachnida,"Drassyllus lutetianus (L. Koch, 1866)",Drassyllus lutetianus
+species:cdnom:1753,species:cdnom:1753,genus:Zora,family:Miturgidae,species,cdnom:1753,Zora spinimana,Zora,Miturgidae,Araneae,Arachnida,"Zora spinimana (Sundevall, 1833)",Zora spinimana
+species:cdnom:233639,species:cdnom:233639,genus:Maso,family:Linyphiidae,species,cdnom:233639,Maso sundevalli,Maso,Linyphiidae,Araneae,Arachnida,"Maso sundevalli (Westring, 1851)",Maso sundevalli
+species:cdnom:2092,species:cdnom:2092,genus:Heliophanus,family:Salticidae,species,cdnom:2092,Heliophanus flavipes,Heliophanus,Salticidae,Araneae,Arachnida,"Heliophanus flavipes (Hahn, 1832)",Heliophanus flavipes
+species:cdnom:778564,species:cdnom:778564,genus:Inermocoelotes,family:Agelenidae,species,cdnom:778564,Inermocoelotes inermis,Inermocoelotes,Agelenidae,Araneae,Arachnida,"Inermocoelotes inermis (L. Koch, 1855)",Inermocoelotes inermis
+species:cdnom:721833,species:cdnom:721833,genus:Mermessus,family:Linyphiidae,species,cdnom:721833,Mermessus denticulatus,Mermessus,Linyphiidae,Araneae,Arachnida,"Mermessus denticulatus (Banks, 1898)",Mermessus denticulatus
+species:cdnom:1166,species:cdnom:1166,genus:Segestria,family:Segestriidae,species,cdnom:1166,Segestria bavarica,Segestria,Segestriidae,Araneae,Arachnida,"Segestria bavarica C.L. Koch, 1843",Segestria bavarica
+species:cdnom:303987,species:cdnom:303987,genus:Pardosa,family:Lycosidae,species,cdnom:303987,Pardosa oreophila,Pardosa,Lycosidae,Araneae,Arachnida,"Pardosa oreophila Simon, 1937",Pardosa oreophila
+genus:Thanatus,NA,genus:Thanatus,family:Philodromidae,genus,NA,NA,Thanatus,Philodromidae,Araneae,Arachnida,"Thanatus C.L. Koch, 1837",Thanatus
+species:cdnom:233349,species:cdnom:233349,genus:Micaria,family:Gphosidae,species,cdnom:233349,Micaria aenea,Micaria,Gphosidae,Araneae,Arachnida,"Micaria aenea Thorell, 1871",Micaria aenea
+species:cdnom:458721,species:cdnom:458721,genus:Pardosa,family:Lycosidae,species,cdnom:458721,Pardosa pyrenaica,Pardosa,Lycosidae,Araneae,Arachnida,"Pardosa pyrenaica Kronestedt, 2007",Pardosa pyrenaica
+species:cdnom:1928,species:cdnom:1928,genus:Pardosa,family:Lycosidae,species,cdnom:1928,Pardosa monticola,Pardosa,Lycosidae,Araneae,Arachnida,"Pardosa monticola (Clerck, 1758)",Pardosa monticola
+species:cdnom:233360,species:cdnom:233360,genus:Nomisia,family:Gphosidae,species,cdnom:233360,Nomisia exornata,Nomisia,Gphosidae,Araneae,Arachnida,"Nomisia exornata (C.L. Koch, 1839)",Nomisia exornata
+species:cdnom:1478,species:cdnom:1478,genus:Ostearius,family:Linyphiidae,species,cdnom:1478,Ostearius melanopygius,Ostearius,Linyphiidae,Araneae,Arachnida,"Ostearius melanopygius (O. Pickard-Cambridge, 1880)",Ostearius melanopygius
+species:cdnom:1235,species:cdnom:1235,genus:Zodarion,family:Zodariidae,species,cdnom:1235,Zodarion elegans,Zodarion,Zodariidae,Araneae,Arachnida,"Zodarion elegans (Simon, 1873)",Zodarion elegans
+species:cdnom:302801,species:cdnom:302801,genus:Callilepis,family:Gphosidae,species,cdnom:302801,Callilepis schuszteri,Callilepis,Gphosidae,Araneae,Arachnida,"Callilepis schuszteri (Herman, 1879)",Callilepis schuszteri
+species:cdnom:806880,species:cdnom:806880,genus:Agyneta,family:Linyphiidae,species,cdnom:806880,Agyneta fuscipalpa,Agyneta,Linyphiidae,Araneae,Arachnida,"Agyneta fuscipalpa (C. L. Koch, 1836)",Agyneta fuscipalpa
+family:Philodromidae,NA,NA,family:Philodromidae,family,NA,NA,NA,Philodromidae,Araneae,Arachnida,Philodromidae,Philodromidae
+species:cdnom:2095,species:cdnom:2095,genus:Heliophanus,family:Salticidae,species,cdnom:2095,Heliophanus tribulosus,Heliophanus,Salticidae,Araneae,Arachnida,"Heliophanus tribulosus Simon, 1869",Heliophanus tribulosus
+species:cdnom:2051,species:cdnom:2051,genus:Saitis,family:Salticidae,species,cdnom:2051,Saitis barbipes,Saitis,Salticidae,Araneae,Arachnida,"Saitis barbipes (Simon, 1868)",Saitis barbipes
+species:cdnom:233953,species:cdnom:233953,genus:Thanatus,family:Philodromidae,species,cdnom:233953,Thanatus atratus,Thanatus,Philodromidae,Araneae,Arachnida,"Thanatus atratus Simon, 1875",Thanatus atratus
+genus:Nemesia,NA,genus:Nemesia,family:Nemesiidae,genus,NA,NA,Nemesia,Nemesiidae,Araneae,Arachnida,"Nemesia Audouin, 1826",Nemesia
+species:cdnom:928332,species:cdnom:928332,genus:Psammitis,family:Thomisidae,species,cdnom:928332,Psammitis ninnii,Psammitis,Thomisidae,Araneae,Arachnida,"Psammitis ninnii (Thorell, 1872)",Psammitis ninnii
+species:cdnom:234205,species:cdnom:234205,genus:Zodarion,family:Zodariidae,species,cdnom:234205,Zodarion rubidum,Zodarion,Zodariidae,Araneae,Arachnida,"Zodarion rubidum Simon, 1914",Zodarion rubidum
+species:cdnom:233389,species:cdnom:233389,genus:Zelotes,family:Gphosidae,species,cdnom:233389,Zelotes atrocaeruleus,Zelotes,Gphosidae,Araneae,Arachnida,"Zelotes atrocaeruleus (Simon, 1878)",Zelotes atrocaeruleus
+species:cdnom:233533,species:cdnom:233533,genus:Diplocephalus,family:Linyphiidae,species,cdnom:233533,Diplocephalus picinus,Diplocephalus,Linyphiidae,Araneae,Arachnida,"Diplocephalus picinus (Blackwall, 1841)",Diplocephalus picinus
+species:cdnom:1873,species:cdnom:1873,genus:Hahnia,family:Hahniidae,species,cdnom:1873,Hahnia helveola,Hahnia,Hahniidae,Araneae,Arachnida,"Hahnia helveola Simon, 1875",Hahnia helveola
+species:cdnom:233505,species:cdnom:233505,genus:Ceratinella,family:Linyphiidae,species,cdnom:233505,Ceratinella scabrosa,Ceratinella,Linyphiidae,Araneae,Arachnida,"Ceratinella scabrosa (O. Pickard-Cambridge, 1871)",Ceratinella scabrosa
+species:cdnom:233833,species:cdnom:233833,genus:Walckenaeria,family:Linyphiidae,species,cdnom:233833,Walckenaeria cucullata,Walckenaeria,Linyphiidae,Araneae,Arachnida,"Walckenaeria cucullata (C.L. Koch, 1836)",Walckenaeria cucullata
+species:cdnom:233868,species:cdnom:233868,genus:Alopecosa,family:Lycosidae,species,cdnom:233868,Alopecosa barbipes,Alopecosa,Lycosidae,Araneae,Arachnida,"Alopecosa barbipes (Sundevall, 1833)",Alopecosa barbipes
+species:cdnom:457299,species:cdnom:457299,genus:Mecopisthes,family:Linyphiidae,species,cdnom:457299,Mecopisthes peusi,Mecopisthes,Linyphiidae,Araneae,Arachnida,"Mecopisthes peusi Wunderlich, 1972",Mecopisthes peusi
+species:cdnom:233502,species:cdnom:233502,genus:Centromerus,family:Linyphiidae,species,cdnom:233502,Centromerus serratus,Centromerus,Linyphiidae,Araneae,Arachnida,"Centromerus serratus (O. Pickard-Cambridge, 1875)",Centromerus serratus
+species:cdnom:233633,species:cdnom:233633,genus:Macrargus,family:Linyphiidae,species,cdnom:233633,Macrargus rufus,Macrargus,Linyphiidae,Araneae,Arachnida,"Macrargus rufus (Wider, 1834)",Macrargus rufus
+species:cdnom:806878,species:cdnom:806878,genus:Agyneta,family:Linyphiidae,species,cdnom:806878,Agyneta affinis,Agyneta,Linyphiidae,Araneae,Arachnida,"Agyneta affinis (Kulczy?ski, 1898)",Agyneta affinis

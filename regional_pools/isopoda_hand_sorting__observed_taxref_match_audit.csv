@@ -1,0 +1,18 @@
+observed_taxon_unit,observed_cd_nom,observed_label,observed_genus,observed_family,cd_ref,accepted_name,genus,family,match_method,in_regional_pool,override_note,n_regional_candidates,n_alternative_candidates,has_alternative_candidate,assemblage_id
+species:cdnom:237094,237094,Porcellio monticola,Porcellio,Porcellionidae,237094,Porcellio monticola,Porcellio,Porcellionidae,cd_nom_alias,TRUE,NA,16,15,TRUE,isopoda_hand_sorting
+species:cdnom:237088,237088,Porcellio gallicus,Porcellio,Porcellionidae,237088,Porcellio gallicus,Porcellio,Porcellionidae,cd_nom_alias,TRUE,NA,16,15,TRUE,isopoda_hand_sorting
+species:cdnom:237025,237025,Armadillidium pulchellum,Armadillidium,Armadillidiidae,237025,Armadillidium pulchellum,Armadillidium,Armadillidiidae,cd_nom_alias,TRUE,NA,16,15,TRUE,isopoda_hand_sorting
+species:cdnom:237023,237023,Armadillidium pictum,Armadillidium,Armadillidiidae,237023,Armadillidium pictum,Armadillidium,Armadillidiidae,cd_nom_alias,TRUE,NA,16,15,TRUE,isopoda_hand_sorting
+species:cdnom:237061,237061,Philoscia muscorum,Philoscia,Philosciidae,237061,Philoscia muscorum,Philoscia,Philosciidae,cd_nom_alias,TRUE,NA,2,1,TRUE,isopoda_hand_sorting
+species:cdnom:237051,237051,Oniscus asellus,Oniscus,Oniscidae,237051,Oniscus asellus,Oniscus,Oniscidae,cd_nom_alias,TRUE,NA,1,0,FALSE,isopoda_hand_sorting
+species:cdnom:237139,237139,Hyloniscus riparius,Hyloniscus,Trichoniscidae,237139,Hyloniscus riparius,Hyloniscus,Trichoniscidae,cd_nom_alias,TRUE,NA,1,0,FALSE,isopoda_hand_sorting
+species:cdnom:311068,311068,Orthometopon planum,Orthometopon,Agridae,311068,Orthometopon planum,Orthometopon,Agnaridae,cd_nom_alias,TRUE,NA,1,0,FALSE,isopoda_hand_sorting
+species:cdnom:699887,699887,Armadillidium nasatum,Armadillidium,Armadillidiidae,699887,Armadillidium nasatum,Armadillidium,Armadillidiidae,cd_nom_alias,TRUE,NA,16,15,TRUE,isopoda_hand_sorting
+species:cdnom:237114,237114,Trachelipus rathkii,Trachelipus,Trachelipodidae,237114,Trachelipus rathkii,Trachelipus,Trachelipodidae,cd_nom_alias,TRUE,NA,3,2,TRUE,isopoda_hand_sorting
+species:cdnom:18829,18829,Armadillidium vulgare,Armadillidium,Armadillidiidae,18829,Armadillidium vulgare,Armadillidium,Armadillidiidae,cd_nom_alias,TRUE,NA,16,15,TRUE,isopoda_hand_sorting
+species:cdnom:311119,311119,Trachelipus razzautii,Trachelipus,Trachelipodidae,311119,Trachelipus razzautii,Trachelipus,Trachelipodidae,cd_nom_alias,TRUE,NA,3,2,TRUE,isopoda_hand_sorting
+species:cdnom:237057,237057,Chaetophiloscia sicula,Chaetophiloscia,Philosciidae,237057,Chaetophiloscia sicula,Chaetophiloscia,Philosciidae,cd_nom_alias,TRUE,NA,3,2,TRUE,isopoda_hand_sorting
+species:cdnom:237055,237055,Chaetophiloscia elongata,Chaetophiloscia,Philosciidae,237055,Chaetophiloscia elongata,Chaetophiloscia,Philosciidae,cd_nom_alias,TRUE,NA,3,2,TRUE,isopoda_hand_sorting
+species:cdnom:237211,237211,Trichoniscus pusillus,Trichoniscus,Trichoniscidae,237211,Trichoniscus pusillus,Trichoniscus,Trichoniscidae,cd_nom_alias,TRUE,NA,10,9,TRUE,isopoda_hand_sorting
+species:cdnom:237115,237115,Trachelipus ratzeburgii,Trachelipus,Trachelipodidae,237115,Trachelipus ratzeburgii,Trachelipus,Trachelipodidae,cd_nom_alias,TRUE,NA,3,2,TRUE,isopoda_hand_sorting
+species:cdnom:781044,781044,Eluma caelata,Eluma,Armadillidiidae,NA,Eluma caelata,Eluma,Armadillidiidae,unmatched,FALSE,NA,0,0,FALSE,isopoda_hand_sorting

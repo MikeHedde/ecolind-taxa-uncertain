@@ -1,0 +1,9 @@
+assemblage_id,group_label,selector_col,selector_value,method,role,stage_scenario_candidate
+collembola_soil_core,Collembola,order,Collembola,soil-core,primary,FALSE
+araneae_pitfall,Araneae,order,Araneae,pitfall-trap,primary,TRUE
+formicidae_pitfall,Formicidae,family,Formicidae,pitfall-trap,primary,FALSE
+carabidae_pitfall,Carabidae,family,Carabidae,pitfall-trap,primary,FALSE
+isopoda_pitfall,Isopoda,order,Isopoda,pitfall-trap,secondary,FALSE
+isopoda_hand_sorting,Isopoda,order,Isopoda,hand-sorting,secondary,FALSE
+diplopoda_pitfall,Diplopoda,class,Diplopoda,pitfall-trap,secondary,TRUE
+diplopoda_hand_sorting,Diplopoda,class,Diplopoda,hand-sorting,secondary,TRUE

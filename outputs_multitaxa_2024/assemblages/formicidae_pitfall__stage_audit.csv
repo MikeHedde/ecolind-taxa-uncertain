@@ -1,0 +1,2 @@
+assemblage_id,group_label,method,total_abundance,male,female,juvenile_explicit,indeterminate_stage_or_sex,abundance_not_stage_resolved,stage_accounting_difference,juvenile_share,stage_candidate
+formicidae_pitfall,Formicidae,pitfall-trap,10354,4,52,0,10478,4,-180,0,FALSE

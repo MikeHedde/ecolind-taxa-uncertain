@@ -1,0 +1,4 @@
+assemblage_id,group_label,method,resolution,n_records,total_abundance,n_reported_names,n_stations_positive,abundance_share,record_share
+isopoda_pitfall,Isopoda,pitfall-trap,family,1,6,1,1,0.006920415224913495,0.005
+isopoda_pitfall,Isopoda,pitfall-trap,genus,12,17,4,7,0.0196078431372549,0.06
+isopoda_pitfall,Isopoda,pitfall-trap,species,187,844,18,37,0.9734717416378316,0.935

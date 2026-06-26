@@ -1,0 +1,27 @@
+observed_taxon_unit,observed_cd_nom,observed_label,observed_genus,observed_family,cd_ref,accepted_name,genus,family,match_method,in_regional_pool,override_note,n_regional_candidates,n_alternative_candidates,has_alternative_candidate,assemblage_id
+species:cdnom:227458,227458,Glomeris valesiaca,Glomeris,Glomeridae,227458,Glomeris valesiaca,Glomeris,Glomeridae,cd_nom_alias,TRUE,NA,12,11,TRUE,diplopoda_hand_sorting
+species:cdnom:969672,969672,Cylindroiulus spinosus,Cylindroiulus,Julidae,NA,Cylindroiulus spinosus,Cylindroiulus,Julidae,unmatched,FALSE,NA,11,10,TRUE,diplopoda_hand_sorting
+species:cdnom:64859,64859,Glomeris marginata,Glomeris,Glomeridae,64859,Glomeris marginata,Glomeris,Glomeridae,cd_nom_alias,TRUE,NA,12,11,TRUE,diplopoda_hand_sorting
+species:cdnom:227618,227618,Allajulus nitidus,Allajulus,Julidae,227618,Allajulus nitidus,Allajulus,Julidae,cd_nom_alias,TRUE,NA,1,0,FALSE,diplopoda_hand_sorting
+species:cdnom:227676,227676,Tachypodoiulus niger,Tachypodoiulus,Julidae,227676,Tachypodoiulus niger,Tachypodoiulus,Julidae,cd_nom_alias,TRUE,NA,1,0,FALSE,diplopoda_hand_sorting
+species:cdnom:227454,227454,Glomeris intermedia,Glomeris,Glomeridae,227454,Glomeris intermedia,Glomeris,Glomeridae,cd_nom_alias,TRUE,NA,12,11,TRUE,diplopoda_hand_sorting
+species:cdnom:227473,227473,Polyzonium germanicum,Polyzonium,Polyzoniidae,227473,Polyzonium germanicum,Polyzonium,Polyzoniidae,cd_nom_alias,TRUE,NA,1,0,FALSE,diplopoda_hand_sorting
+species:cdnom:227522,227522,Melogona gallica,Melogona,Chordeumatidae,227522,Melogona gallica,Melogona,Chordeumatidae,cd_nom_alias,TRUE,NA,2,1,TRUE,diplopoda_hand_sorting
+species:cdnom:227628,227628,Cylindroiulus londinensis,Cylindroiulus,Julidae,227628,Cylindroiulus londinensis,Cylindroiulus,Julidae,cd_nom_alias,TRUE,NA,11,10,TRUE,diplopoda_hand_sorting
+species:cdnom:227687,227687,Ophiodesmus albonanus,Ophiodesmus,Macrosternodesmidae,227687,Ophiodesmus albonanus,Ophiodesmus,Macrosternodesmidae,cd_nom_alias,TRUE,NA,1,0,FALSE,diplopoda_hand_sorting
+species:cdnom:227593,227593,Blaniulus guttulatus,Blaniulus,Blaniulidae,227593,Blaniulus guttulatus,Blaniulus,Blaniulidae,cd_nom_alias,TRUE,NA,8,7,TRUE,diplopoda_hand_sorting
+species:cdnom:227692,227692,Brachydesmus superus,Brachydesmus,Polydesmidae,227692,Brachydesmus superus,Brachydesmus,Polydesmidae,cd_nom_alias,TRUE,NA,4,3,TRUE,diplopoda_hand_sorting
+species:cdnom:227700,227700,Polydesmus denticulatus,Polydesmus,Polydesmidae,227700,Polydesmus denticulatus,Polydesmus,Polydesmidae,cd_nom_alias,TRUE,NA,16,15,TRUE,diplopoda_hand_sorting
+species:cdnom:227621,227621,Brachyiulus pusillus,Brachyiulus,Julidae,227621,Brachyiulus pusillus,Brachyiulus,Julidae,cd_nom_alias,TRUE,NA,2,1,TRUE,diplopoda_hand_sorting
+species:cdnom:227623,227623,Cylindroiulus caeruleocinctus,Cylindroiulus,Julidae,227623,Cylindroiulus caeruleocinctus,Cylindroiulus,Julidae,cd_nom_alias,TRUE,NA,11,10,TRUE,diplopoda_hand_sorting
+species:cdnom:227714,227714,Propolydesmus testaceus,Propolydesmus,Polydesmidae,227714,Propolydesmus testaceus,Propolydesmus,Polydesmidae,cd_nom_alias,TRUE,NA,4,3,TRUE,diplopoda_hand_sorting
+species:cdnom:227703,227703,Polydesmus inconstans,Polydesmus,Polydesmidae,227703,Polydesmus inconstans,Polydesmus,Polydesmidae,cd_nom_alias,TRUE,NA,16,15,TRUE,diplopoda_hand_sorting
+species:cdnom:227699,227699,Polydesmus coriaceus,Polydesmus,Polydesmidae,227699,Polydesmus coriaceus,Polydesmus,Polydesmidae,cd_nom_alias,TRUE,NA,16,15,TRUE,diplopoda_hand_sorting
+species:cdnom:227626,227626,Cylindroiulus latestriatus,Cylindroiulus,Julidae,227626,Cylindroiulus latestriatus,Cylindroiulus,Julidae,cd_nom_alias,TRUE,NA,11,10,TRUE,diplopoda_hand_sorting
+species:cdnom:227668,227668,Ommatoiulus sabulosus,Ommatoiulus,Julidae,227668,Ommatoiulus sabulosus,Ommatoiulus,Julidae,cd_nom_alias,TRUE,NA,7,6,TRUE,diplopoda_hand_sorting
+species:cdnom:227668,227668,Ommatoiulus sabulosus,Ommatoiulus,Julidae,227668,Ommatoiulus sabulosus,Ommatoiulus,Julidae,cd_nom_alias,TRUE,NA,7,6,TRUE,diplopoda_hand_sorting
+species:cdnom:227609,227609,Occitaniulus rouchi,Occitaniulus,Blaniulidae,227609,Occitaniulus rouchi,Occitaniulus,Blaniulidae,cd_nom_alias,TRUE,NA,1,0,FALSE,diplopoda_hand_sorting
+species:cdnom:64877,64877,Polydesmus angustus,Polydesmus,Polydesmidae,64877,Polydesmus angustus,Polydesmus,Polydesmidae,cd_nom_alias,TRUE,NA,16,15,TRUE,diplopoda_hand_sorting
+species:cdnom:227641,227641,Julus scandinavius,Julus,Julidae,227641,Julus scandinavius,Julus,Julidae,cd_nom_alias,TRUE,NA,1,0,FALSE,diplopoda_hand_sorting
+species:cdnom:212638,212638,"Melogona Cook, 1895",NA,Chordeumatidae,NA,"Melogona Cook, 1895",NA,Chordeumatidae,unmatched,FALSE,NA,0,0,FALSE,diplopoda_hand_sorting
+species:cdnom:227588,227588,Galliobates gracilis,Galliobates,Galliobatidae,227588,Galliobates gracilis,Galliobates,Galliobatidae,cd_nom_alias,TRUE,NA,1,0,FALSE,diplopoda_hand_sorting

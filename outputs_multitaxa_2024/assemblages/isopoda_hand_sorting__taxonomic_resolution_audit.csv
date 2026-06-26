@@ -1,0 +1,3 @@
+assemblage_id,group_label,method,resolution,n_records,total_abundance,n_reported_names,n_stations_positive,abundance_share,record_share
+isopoda_hand_sorting,Isopoda,hand-sorting,genus,18,32,2,8,0.08443271767810026,0.11612903225806452
+isopoda_hand_sorting,Isopoda,hand-sorting,species,137,347,17,30,0.9155672823218998,0.8838709677419355

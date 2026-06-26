@@ -1,0 +1,2 @@
+assemblage_id,group_label,method,total_abundance,male,female,juvenile_explicit,indeterminate_stage_or_sex,abundance_not_stage_resolved,stage_accounting_difference,juvenile_share,stage_candidate
+collembola_soil_core,Collembola,soil-core,3066,1,0,0,0,3065,3065,0,FALSE

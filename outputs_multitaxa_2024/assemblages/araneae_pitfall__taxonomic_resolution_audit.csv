@@ -1,0 +1,5 @@
+assemblage_id,group_label,method,resolution,n_records,total_abundance,n_reported_names,n_stations_positive,abundance_share,record_share
+araneae_pitfall,Araneae,pitfall-trap,family,179,276,13,57,0.030907054871220606,0.07415078707539353
+araneae_pitfall,Araneae,pitfall-trap,genus,335,1152,35,60,0.129003359462486,0.1387738193869097
+araneae_pitfall,Araneae,pitfall-trap,order,1,1,1,1,1.1198208286674133e-4,4.1425020712510354e-4
+araneae_pitfall,Araneae,pitfall-trap,species,1899,7501,222,66,0.8399776035834267,0.7866611433305717

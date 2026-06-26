@@ -1,0 +1,2 @@
+assemblage_id,group_label,method,total_abundance,male,female,juvenile_explicit,indeterminate_stage_or_sex,abundance_not_stage_resolved,stage_accounting_difference,juvenile_share,stage_candidate
+diplopoda_hand_sorting,Diplopoda,hand-sorting,301,45,100,60,3,93,93,0.19933554817275748,TRUE

@@ -1,0 +1,5 @@
+assemblage_id,group_label,method,resolution,n_records,total_abundance,n_reported_names,n_stations_positive,abundance_share,record_share
+diplopoda_pitfall,Diplopoda,pitfall-trap,family,3,3,3,2,0.012711864406779662,0.031578947368421054
+diplopoda_pitfall,Diplopoda,pitfall-trap,genus,21,112,4,10,0.4745762711864407,0.22105263157894736
+diplopoda_pitfall,Diplopoda,pitfall-trap,order,2,2,1,2,0.00847457627118644,0.021052631578947368
+diplopoda_pitfall,Diplopoda,pitfall-trap,species,69,119,16,31,0.5042372881355932,0.7263157894736842
