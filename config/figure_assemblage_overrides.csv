@@ -1,0 +1,13 @@
+assemblage_id,display_label,show_main,main_order,show_supplement,supp_order,comment
+collembola__soil_core,Collembola · soil cores,TRUE,1,TRUE,1,Core focal assemblage
+araneae__pitfall_trap,Spiders · pitfall traps,TRUE,2,TRUE,2,Core focal assemblage
+carabidae__pitfall_trap,Ground beetles · pitfall traps,TRUE,3,TRUE,3,Core focal assemblage
+formicidae__pitfall_trap,Ants · pitfall traps,TRUE,4,TRUE,4,Core focal assemblage
+isopoda__pitfall_trap,Isopods · pitfall traps,TRUE,5,TRUE,5,Core focal assemblage
+araneae__hand_sorting,Spiders · hand sorting,FALSE,20,TRUE,20,Secondary / sensitivity
+isopoda__hand_sorting,Isopods · hand sorting,FALSE,21,TRUE,21,Secondary / sensitivity
+diplopoda__pitfall_trap,Millipedes · pitfall traps,FALSE,22,TRUE,22,Secondary / sensitivity
+diplopoda__hand_sorting,Millipedes · hand sorting,FALSE,23,TRUE,23,Secondary / sensitivity
+curculionidae__pitfall_trap,Weevils · pitfall traps,FALSE,24,TRUE,24,Review registry inclusion before manuscript
+staphylinidae__pitfall_trap,Rove beetles · pitfall traps,FALSE,25,TRUE,25,Future candidate
+earthworms__hand_sorting,Earthworms · hand sorting,FALSE,26,TRUE,26,Future candidate

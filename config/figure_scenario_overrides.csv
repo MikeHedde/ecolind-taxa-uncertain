@@ -1,0 +1,13 @@
+scenario_id,short_label,scenario_class,show_main_override,main_order,comment
+species_observed_pool_10,Observed-pool error (10%),Identification error,TRUE,1,Generic conservative error
+species_regional_pool_10,Regional TAXREF error (10%),Identification error,TRUE,2,Broader candidate pool
+expert_integrated_10,Expert-informed uncertainty,Expert-informed,TRUE,3,Visible only when available
+rtu_rare_to_genus,Rare taxa → genus,Workflow decision,TRUE,4,Conservative reporting choice
+rtu_drop_unresolved,Drop unresolved records,Workflow decision,TRUE,5,Species-only deletion
+rtu_genus_level,Genus aggregation,Workflow decision,TRUE,6,Coarsening
+rtu_family_level,Family aggregation,Workflow decision,TRUE,7,Coarsening
+species_rare_weighted_10,Rare-weighted error (10%),Identification error,FALSE,20,Supplementary only
+expert_species_10,Expert species confusion (10%),Expert component,FALSE,21,Supplementary only
+expert_reporting,Expert conservative reporting,Expert component,FALSE,22,Supplementary only
+expert_rtu_10,Expert RTU confusion (10%),Expert component,FALSE,23,Supplementary only
+adult_only,Adults only,Life stage,FALSE,24,Supplementary only

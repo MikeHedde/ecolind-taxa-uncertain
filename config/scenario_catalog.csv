@@ -1,0 +1,17 @@
+scenario_id,handler,scenario_family,baseline_id,error_rate,run,show_main,show_supplement,label,description
+rtu_best_available,rtu_baseline,baseline,rtu_best_available,,TRUE,FALSE,FALSE,Best available RTUs,Internal baseline
+rtu_drop_unresolved,drop_unresolved,workflow,rtu_best_available,,TRUE,TRUE,TRUE,Drop unresolved records,Species-only analysis after removal of unresolved records
+rtu_rare_to_genus,rare_to_genus,workflow,rtu_best_available,,TRUE,TRUE,TRUE,Rare taxa reported at genus,Conservative reporting of rare species
+adult_only,adult_only,stage,rtu_best_available,,TRUE,FALSE,TRUE,Adults only,Strict adult-only sensitivity
+rtu_genus_resolvable,genus_baseline,internal,rtu_genus_resolvable,,TRUE,FALSE,FALSE,Genus-resolvable RTUs,Internal matched baseline
+rtu_genus_level,genus_level,coarsening,rtu_genus_resolvable,,TRUE,TRUE,TRUE,Genus-level resolution,Taxonomic aggregation to genus
+rtu_family_resolvable,family_baseline,internal,rtu_family_resolvable,,TRUE,FALSE,FALSE,Family-resolvable RTUs,Internal matched baseline
+rtu_family_level,family_level,coarsening,rtu_family_resolvable,,TRUE,TRUE,TRUE,Family-level resolution,Taxonomic aggregation to family
+species_baseline,species_baseline,baseline,species_baseline,,TRUE,FALSE,FALSE,Species baseline,Internal baseline for species-error scenarios
+species_observed_pool_10,observed_pool_error,identification_error,species_baseline,0.10,TRUE,TRUE,TRUE,Observed-pool error 10%,Congeneric error constrained to observed species
+species_regional_pool_10,regional_pool_error,identification_error,species_baseline,0.10,TRUE,TRUE,TRUE,Regional TAXREF-pool error 10%,Congeneric error with accepted mainland-France TAXREF candidates
+species_rare_weighted_10,rare_weighted_error,identification_error,species_baseline,0.10,TRUE,FALSE,TRUE,Rare-weighted observed-pool error 10%,Observed-pool error concentrated in rare source species
+expert_species_10,expert_species_error,expert_component,species_baseline,0.10,TRUE,FALSE,TRUE,Expert species confusion 10%,Expert-defined species-to-species confusion only
+expert_reporting,expert_reporting,expert_component,rtu_best_available,,TRUE,FALSE,TRUE,Expert conservative reporting,Expert-defined reporting rules only
+expert_rtu_10,expert_rtu_error,expert_component,rtu_best_available,0.10,TRUE,FALSE,TRUE,Expert RTU confusion 10%,Expert-defined RTU confusion only
+expert_integrated_10,expert_integrated,expert,rtu_best_available,0.10,TRUE,TRUE,TRUE,Expert-informed uncertainty 10%,Integrated expert species/RTU confusion and conservative reporting

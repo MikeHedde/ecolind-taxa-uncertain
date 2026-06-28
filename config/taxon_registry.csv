@@ -1,0 +1,10 @@
+taxon_key,display_label,selector_col,selector_value,taxref_filter_col,taxref_filter_value,expert_workbook,include,preferred_role,stage_scenario_candidate,method_include,notes
+collembola,Collembola,order,Collembola,ordre,Collembola,expert_rules.csv,TRUE,primary,FALSE,,Existing focal taxon
+araneae,Araneae,order,Araneae,ordre,Araneae,expert_rules.csv,TRUE,primary,TRUE,,Existing focal taxon
+carabidae,Carabidae,family,Carabidae,famille,Carabidae,expert_rules.csv,TRUE,primary,FALSE,pitfall-trap,Existing focal taxon
+formicidae,Formicidae,family,Formicidae,famille,Formicidae,expert_rules.csv,TRUE,primary,FALSE,pitfall-trap,Existing focal taxon
+curculionidae,Curculionidae,family,Curculionidae,famille,Curculionidae,expert_rules.csv,TRUE,primary,FALSE,pitfall-trap,Existing focal taxon
+isopoda,Isopoda,order,Isopoda,ordre,Isopoda,expert_rules.csv,TRUE,secondary,FALSE,,Existing focal taxon
+diplopoda,Diplopoda,class,Diplopoda,classe,Diplopoda,expert_rules.csv,TRUE,secondary,TRUE,,Existing focal taxon
+staphylinidae,Staphylinidae,family,Staphylinidae,famille,Staphylinidae,expert_rules.csv,FALSE,secondary,FALSE,pitfall-trap,Add expert workbook when available
+earthworms,Earthworms,family,Lumbricidae,famille,Lumbricidae,expert_rules.csv,FALSE,secondary,FALSE,hand-sorting,Check this selector against the specific earthworm raw dataset before interpreting

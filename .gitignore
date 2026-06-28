@@ -1,26 +1,12 @@
-# macOS files ----
-.DS_Store
-
-# History files ----
 .Rhistory
-.Rapp.history
-
-# Session Data files ----
 .RData
 .Ruserdata
-
-# RStudio files ----
-*.Rproj
 .Rproj.user/
-
-# R Environment Variables ----
-.Renviron
-
-# Large .txt files
+renv/library/
+data/raw-data/
+data/derived-data/
+regional_pools/*.csv
+outputs/
+expert_internal/
+*.zip
 TAXREFv*.txt
-# User-specific files ----
-README.html
-inst/doc
-man/
-NAMESPACE
-"data/raw-data/TAXREFv17.txt" 
