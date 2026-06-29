@@ -1,10 +1,10 @@
 assemblage_id,taxon_key,n_regional_candidates,n_observed_species,match_rate,n_sources_with_alternative_candidate
-araneae__hand_sorting,araneae,1561,27,0.9629629629629629,24
-araneae__pitfall_trap,araneae,1561,225,0.9555555555555556,204
-carabidae__pitfall_trap,carabidae,1270,190,0.9894736842105263,184
-collembola__soil_core,collembola,735,54,0.9814814814814815,51
-curculionidae__pitfall_trap,curculionidae,1516,36,1,34
-formicidae__pitfall_trap,formicidae,222,46,0.9782608695652174,44
+araneae__hand_sorting,araneae,1560,27,0.9629629629629629,24
+araneae__pitfall_trap,araneae,1560,225,0.9555555555555556,204
+carabidae__pitfall_trap,carabidae,1267,190,0.9842105263157894,184
+collembola__soil_core,collembola,729,54,0.9814814814814815,51
+curculionidae__pitfall_trap,curculionidae,1512,36,1,34
+formicidae__pitfall_trap,formicidae,225,46,0.9782608695652174,44
 diplopoda__hand_sorting,diplopoda,285,26,0.9230769230769231,18
 diplopoda__pitfall_trap,diplopoda,285,18,0.9444444444444444,14
 isopoda__hand_sorting,isopoda,539,17,0.9411764705882353,13

@@ -16,13 +16,13 @@ settings <- list(
 
   # Analysis thresholds
   min_beta_sites = 8L,
-  min_gdm_sites = 20L,
-  min_main_stations = 50L,
-  min_main_abundance = 500L,
-  min_main_taxa = 15L,
+  min_gdm_sites = 10L,
+  min_main_stations = 30L,
+  min_main_abundance = 100L,
+  min_main_taxa = 10L,
 
   # Replication
-  n_sim = 30L,
+  n_sim = 50L,
   gdm_max_stochastic_iters = 12L,
 
   # Taxonomic scenarios
