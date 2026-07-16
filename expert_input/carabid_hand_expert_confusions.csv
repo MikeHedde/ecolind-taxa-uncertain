@@ -1,0 +1,506 @@
+source_cdnom;source_label;source_genus;target_cdnom;target_label;target_genus;review_note;expert_degree_confusion
+188661;Abax;Abax;;;;;
+9157;Abax ovalis;Abax;;;;;
+222607;Abax parallelepipedus;Abax;9158;Abax parallelus;Abax;;1
+222607;Abax parallelepipedus;Abax;222608;Abax pyrenaeus;Abax;;1
+222607;Abax parallelepipedus;Abax;222609;Abax carinatus;Abax;;1
+9158;Abax parallelus;Abax;222607;Abax parallelepipedus;Abax;;1
+9158;Abax parallelus;Abax;222608;Abax pyrenaeus;Abax;;2
+9158;Abax parallelus;Abax;222609;Abax carinatus;Abax;;2
+188809;Acupalpus;Acupalpus;;;;;
+9346;Acupalpus brunnipes;Acupalpus;188809;;Acupalpus;Autres Acupalpus;3
+9348;Acupalpus dubius;Acupalpus;188809;;Acupalpus;Autres Acupalpus;3
+9351;Acupalpus flavicollis;Acupalpus;188809;;Acupalpus;Autres Acupalpus;3
+9353;Acupalpus meridianus;Acupalpus;188809;;Acupalpus;Autres Acupalpus;1
+9355;Acupalpus notatus;Acupalpus;188809;;Acupalpus;Autres Acupalpus;3
+222420;Acupalpus parvulus;Acupalpus;188809;;Acupalpus;Autres Acupalpus;3
+188889;Agonum;Agonum;;;;;
+8817;Agonum marginatum;Agonum;;;;;
+8819;Agonum muelleri;Agonum;;;;;
+8820;Agonum nigrum;Agonum;222391;Agonum afrum;Agonum;;2
+8820;Agonum nigrum;Agonum;222395;Agonum permoestum;Agonum;;2
+8820;Agonum nigrum;Agonum;222392;Agonum duftschmidi;Agonum;;2
+8820;Agonum nigrum;Agonum;8816;Agonum lugens;Agonum;;2
+8826;Agonum viridicupreum;Agonum;;;;;
+189022;Amara;Amara;;;;;
+9192;Amara aenea;Amara;189022;;Amara;Autres Amara;2
+222624;Amara anthobia;Amara;189022;;Amara;Autres Amara;2
+222659;Amara bickhardti;Amara;193094;;Harpalus;Harpalus divers;3
+222659;Amara bickhardti;Amara;189022;;Amara;Autres Amara;3
+222634;Amara bifrons;Amara;189022;;Amara;Autres Amara;2
+9193;Amara communis;Amara;9212;Amara lunicollis;Amara;;3
+9193;Amara communis;Amara;9201;Amara curta;Amara;;3
+9193;Amara communis;Amara;189022;;Amara;Autres Amara;2
+9193;Amara communis;Amara;9200;Amara convexior;Amara;;3
+9194;Amara consularis;Amara;189022;;Amara;Autres Amara;2
+9200;Amara convexior;Amara;9193;Amara communis;Amara;;3
+9200;Amara convexior;Amara;189022;;Amara;Autres Amara;2
+9200;Amara convexior;Amara;9212;Amara lunicollis;Amara;;3
+9200;Amara convexior;Amara;9201;Amara curta;Amara;;3
+222654;Amara crenata;Amara;189022;;Amara;Autres Amara;2
+9201;Amara curta;Amara;9212;Amara lunicollis;Amara;;3
+9201;Amara curta;Amara;9193;Amara communis;Amara;;3
+9201;Amara curta;Amara;9200;Amara convexior;Amara;;3
+9201;Amara curta;Amara;189022;;Amara;Autres Amara;2
+222652;Amara equestris;Amara;189022;;Amara;Autres Amara;2
+222637;Amara erratica;Amara;189022;;Amara;Autres Amara;2
+9203;Amara eurynota;Amara;189022;;Amara;Autres Amara;2
+9204;Amara familiaris;Amara;189022;;Amara;Autres Amara;2
+9204;Amara familiaris;Amara;9208;Amara lucida;Amara;;3
+9206;Amara fulvipes;Amara;9205;Amara floralis;Amara;;3
+9206;Amara fulvipes;Amara;9207;Amara kulti;Amara;;3
+9206;Amara fulvipes;Amara;222622;Amara strenua;Amara;;3
+9206;Amara fulvipes;Amara;222623;Amara tricuspidata;Amara;;3
+9206;Amara fulvipes;Amara;189022;;Amara;Autres Amara;2
+9207;Amara kulti;Amara;9206;Amara fulvipes;Amara;;3
+9207;Amara kulti;Amara;222622;Amara strenua;Amara;;3
+9207;Amara kulti;Amara;222623;Amara tricuspidata;Amara;;3
+9207;Amara kulti;Amara;9205;Amara floralis;Amara;;3
+9207;Amara kulti;Amara;189022;;Amara;Autres Amara;2
+9208;Amara lucida;Amara;189022;;Amara;Autres Amara;2
+9208;Amara lucida;Amara;9204;Amara familiaris;Amara;;3
+9212;Amara lunicollis;Amara;9201;Amara curta;Amara;;3
+9212;Amara lunicollis;Amara;9193;Amara communis;Amara;;3
+9212;Amara lunicollis;Amara;9200;Amara convexior;Amara;;3
+9212;Amara lunicollis;Amara;189022;;Amara;Autres Amara;2
+222628;Amara nigricornis;Amara;222637;Amara erratica;Amara;;3
+222628;Amara nigricornis;Amara;189022;;Amara;Autres Amara;2
+9215;Amara nitida;Amara;189022;;Amara;Autres Amara;2
+9217;Amara ovata;Amara;9231;Amara similata;Amara;;3
+9217;Amara ovata;Amara;189022;;Amara;Autres Amara;2
+9218;Amara plebeja;Amara;189022;;Amara;Autres Amara;2
+222644;Amara praetermissa;Amara;189022;;Amara;Autres Amara;2
+9222;Amara quenseli;Amara;189022;;Amara;Autres Amara;2
+9223;Amara rufipes;Amara;222621;Amara concinna;Amara;;3
+9223;Amara rufipes;Amara;189022;;Amara;Autres Amara;2
+9231;Amara similata;Amara;9217;Amara ovata;Amara;;3
+9231;Amara similata;Amara;189022;;Amara;Autres Amara;2
+222622;Amara strenua;Amara;9207;Amara kulti;Amara;;3
+222622;Amara strenua;Amara;9206;Amara fulvipes;Amara;;3
+222622;Amara strenua;Amara;222623;Amara tricuspidata;Amara;;3
+222622;Amara strenua;Amara;189022;;Amara;Autres Amara;2
+222622;Amara strenua;Amara;9205;Amara floralis;Amara;;3
+9230;Amara tibialis;Amara;189022;;Amara;Autres Amara;2
+189036;Amblystomus;Amblystomus;;;;;
+9357;Amblystomus niger;Amblystomus;222506;Amblystomus metallescens;Amblystomus;;1
+203395;Anchomenus;Anchomenus;;;;;
+222383;Anchomenus dorsalis;Anchomenus;;;;;
+189178;Anisodactylus;Anisodactylus;203287;;Cryptophonus;Cryptophonus divers;1
+189178;Anisodactylus;Anisodactylus;193094;;Harpalus;Harpalus divers;1
+9291;Anisodactylus binotatus;Anisodactylus;193094;;Harpalus;Harpalus divers;1
+9291;Anisodactylus binotatus;Anisodactylus;9293;Anisodactylus nemorivagus;Anisodactylus;;2
+9291;Anisodactylus binotatus;Anisodactylus;189178;;Anisodactylus;;1
+222409;Anisodactylus signatus;Anisodactylus;193094;;Harpalus;Harpalus divers;2
+222409;Anisodactylus signatus;Anisodactylus;189178;;Anisodactylus;;1
+203425;Apotomus;Apotomus;;;;;
+222949;Apotomus rufus;Apotomus;;;;;
+189506;Asaphidion;Asaphidion;189506;;Asaphidion;Divers Asaphidion;2
+222940;Asaphidion curtum;Asaphidion;8585;Asaphidion flavipes;Asaphidion;;3
+222940;Asaphidion curtum;Asaphidion;222945;Asaphidion stierlini;Asaphidion;;3
+222940;Asaphidion curtum;Asaphidion;;Asaphidion austriacum;Asaphidion;;3
+222940;Asaphidion curtum;Asaphidion;189506;;Asaphidion;Divers Asaphidion;2
+8585;Asaphidion flavipes;Asaphidion;222945;Asaphidion stierlini;Asaphidion;;3
+8585;Asaphidion flavipes;Asaphidion;222939;Asaphidion austriacum;Asaphidion;Dépend de la région;3
+8585;Asaphidion flavipes;Asaphidion;222940;Asaphidion curtum;Asaphidion;;3
+8585;Asaphidion flavipes;Asaphidion;189506;;Asaphidion;Divers Asaphidion;2
+222945;Asaphidion stierlini;Asaphidion;222939;Asaphidion austriacum;Asaphidion;Dépend de la région;3
+222945;Asaphidion stierlini;Asaphidion;222940;Asaphidion curtum;Asaphidion;;3
+222945;Asaphidion stierlini;Asaphidion;8585;Asaphidion flavipes;Asaphidion;;3
+222945;Asaphidion stierlini;Asaphidion;189506;;Asaphidion;Divers Asaphidion;2
+189704;Badister;Badister;;;;;
+222508;Badister bullatus;Badister;222510;Badister unipustulatus;Badister;;1
+222508;Badister bullatus;Badister;9360;Badister meridionalis;Badister;;1
+222508;Badister bullatus;Badister;222509;Badister lacertosus;Badister;;1
+222509;Badister lacertosus;Badister;222508;Badister bullatus;Badister;;
+222509;Badister lacertosus;Badister;222510;Badister unipustulatus;Badister;;1
+222509;Badister lacertosus;Badister;9360;Badister meridionalis;Badister;;1
+222511;Badister sodalis;Badister;;;;;
+189823;Bembidion;Bembidion;;;;;
+795382;Bembidion axillare occiduum;Bembidion;8605;Bembidion minimum;Bembidion;;2
+795382;Bembidion axillare occiduum;Bembidion;189823;;Bembidion;Divers Bembidion;1
+794293;Bembidion biguttatum;Bembidion;794292;Bembidion aeneum;Bembidion;;2
+794293;Bembidion biguttatum;Bembidion;794295;Bembidion iricolor;Bembidion;;2
+794293;Bembidion biguttatum;Bembidion;189823;;Bembidion;Divers Bembidion;1
+794293;Bembidion biguttatum;Bembidion;794296;Bembidion lunulatum;Bembidion;;2
+795403;Bembidion bipunctatum bipunctatum;Bembidion;189823;;Bembidion;Divers Bembidion;1
+795216;Bembidion callosum;Bembidion;716246;Bembidion genei;Bembidion;;2
+795216;Bembidion callosum;Bembidion;189823;;Bembidion;Divers Bembidion;1
+795216;Bembidion callosum;Bembidion;795259;Bembidion schmidti;Bembidion;;2
+795386;Bembidion callosum subconnexum;Bembidion;716246;Bembidion genei;Bembidion;;2
+795386;Bembidion callosum subconnexum;Bembidion;189823;;Bembidion;Divers Bembidion;1
+795386;Bembidion callosum subconnexum;Bembidion;795259;Bembidion schmidti;Bembidion;;2
+794280;Bembidion deletum;Bembidion;189823;;Bembidion;Divers Bembidion;1
+794280;Bembidion deletum;Bembidion;794284;Bembidion latinum;Bembidion;;2
+794294;Bembidion guttula;Bembidion;794297;Bembidion mannerheimii;Bembidion;;3
+794294;Bembidion guttula;Bembidion;189823;;Bembidion;Divers Bembidion;1
+222901;Bembidion humerale;Bembidion;189823;;Bembidion;Divers Bembidion;1
+794295;Bembidion iricolor;Bembidion;794296;Bembidion lunulatum;Bembidion;;2
+794295;Bembidion iricolor;Bembidion;794292;Bembidion aeneum;Bembidion;;2
+794295;Bembidion iricolor;Bembidion;794296;Bembidion lunulatum;Bembidion;;2
+794295;Bembidion iricolor;Bembidion;189823;;Bembidion;Divers Bembidion;1
+794305;Bembidion jacqueti;Bembidion;794304;Bembidion glaciale;Bembidion;;2
+794305;Bembidion jacqueti;Bembidion;795261;Bembidion magellense;Bembidion;;2
+794305;Bembidion jacqueti;Bembidion;795219;Bembidion pyrenaeum;Bembidion;;3
+794305;Bembidion jacqueti;Bembidion;189823;;Bembidion;Divers Bembidion;1
+8632;Bembidion lampros;Bembidion;8628;Bembidion properans;Bembidion;;3
+8632;Bembidion lampros;Bembidion;189823;;Bembidion;Divers Bembidion;1
+794284;Bembidion latinum;Bembidion;794280;Bembidion deletum;Bembidion;;2
+794284;Bembidion latinum;Bembidion;189823;;Bembidion;Divers Bembidion;1
+794296;Bembidion lunulatum;Bembidion;794295;Bembidion iricolor;Bembidion;;2
+794296;Bembidion lunulatum;Bembidion;794292;Bembidion aeneum;Bembidion;;2
+794296;Bembidion lunulatum;Bembidion;794293;Bembidion biguttatum;Bembidion;;2
+794296;Bembidion lunulatum;Bembidion;189823;;Bembidion;Divers Bembidion;1
+794297;Bembidion mannerheimii;Bembidion;189823;;Bembidion;Divers Bembidion;1
+794297;Bembidion mannerheimii;Bembidion;794294;Bembidion guttula;Bembidion;;3
+8639;Bembidion obtusum;Bembidion;189823;;Bembidion;Divers Bembidion;1
+8639;Bembidion obtusum;Bembidion;794298;Bembidion tethys;Bembidion;;2
+8628;Bembidion properans;Bembidion;189823;;Bembidion;Divers Bembidion;1
+8628;Bembidion properans;Bembidion;8632;Bembidion lampros;Bembidion;;3
+795219;Bembidion pyrenaeum;Bembidion;794304;Bembidion glaciale;Bembidion;;2
+795219;Bembidion pyrenaeum;Bembidion;795261;Bembidion magellense;Bembidion;;2
+795219;Bembidion pyrenaeum;Bembidion;794305;Bembidion jacqueti;Bembidion;;2
+795219;Bembidion pyrenaeum;Bembidion;189823;;Bembidion;Divers Bembidion;1
+795401;Bembidion pyrenaeum poenini;Bembidion;794304;Bembidion glaciale;Bembidion;;2
+795401;Bembidion pyrenaeum poenini;Bembidion;795261;Bembidion magellense;Bembidion;;2
+795401;Bembidion pyrenaeum poenini;Bembidion;794305;Bembidion jacqueti;Bembidion;;2
+795401;Bembidion pyrenaeum poenini;Bembidion;189823;;Bembidion;Divers Bembidion;1
+8617;Bembidion quadrimaculatum;Bembidion;8627;Bembidion quadripustulatum;Bembidion;;1
+8617;Bembidion quadrimaculatum;Bembidion;189823;;Bembidion;Divers Bembidion;1
+794298;Bembidion tethys;Bembidion;8639;Bembidion obtusum;Bembidion;;2
+794298;Bembidion tethys;Bembidion;189823;;Bembidion;Divers Bembidion;1
+780498;Bembidion tetracolum;Bembidion;794289;Bembidion distinguendum;Bembidion;;2
+780498;Bembidion tetracolum;Bembidion;780495;Bembidion bruxellense;Bembidion;;2
+780498;Bembidion tetracolum;Bembidion;189823;;Bembidion;Divers Bembidion;1
+190000;Brachinus;Brachinus;;;;;
+9277;Brachinus crepitans;Brachinus;9278;Brachinus explodens;Brachinus;;2
+9277;Brachinus crepitans;Brachinus;190000;;Brachinus;Divers Brachinus;1
+0;Brachinus elegans;Brachinus;9280;Brachinus psophia;Brachinus;Femelles uniquement;2
+0;Brachinus elegans;Brachinus;190000;;Brachinus;Divers Brachinus;1
+9278;Brachinus explodens;Brachinus;190000;;Brachinus;Divers Brachinus;1
+9278;Brachinus explodens;Brachinus;9277;Brachinus crepitans;Brachinus;;2
+9280;Brachinus psophia;Brachinus;190000;;Brachinus;Divers Brachinus;1
+9280;Brachinus psophia;Brachinus;0;Brachinus elegans;Brachinus;Femelles uniquement;2
+9285;Brachinus sclopeta;Brachinus;;;;;
+190032;Bradycellus;Bradycellus;;;;;
+222430;Bradycellus caucasicus;Bradycellus;190032;;Bradycellus;Autres Bradycellus;2
+9342;Bradycellus harpalinus;Bradycellus;190032;;Bradycellus;Autres Bradycellus;2
+190174;Calathus;Calathus;;;;;
+222355;Calathus ambiguus;Calathus;;;;;
+222356;Calathus cinctus;Calathus;8784;Calathus melanocephalus;Calathus;Surtout pour les femelles;3
+222356;Calathus cinctus;Calathus;8785;Calathus mollis;Calathus;Surtout pour les femelles;3
+8780;Calathus circumseptus;Calathus;190174;;Calathus;Autres Calathus;1
+8780;Calathus circumseptus;Calathus;222358;Calathus rotundicollis;Calathus;;2
+8782;Calathus fuscipes;Calathus;8783;Calathus luctuosus;Calathus;;1
+8783;Calathus luctuosus;Calathus;8782;Calathus fuscipes;Calathus;;1
+8784;Calathus melanocephalus;Calathus;222356;Calathus cinctus;Calathus;Surtout pour les femelles;3
+8784;Calathus melanocephalus;Calathus;8785;Calathus mollis;Calathus;Surtout pour les femelles;3
+222357;Calathus micropterus;Calathus;190174;;Calathus;Autres Calathus;1
+8785;Calathus mollis;Calathus;8784;Calathus melanocephalus;Calathus;Surtout pour les femelles;3
+8785;Calathus mollis;Calathus;222356;Calathus cinctus;Calathus;Surtout pour les femelles;3
+222358;Calathus rotundicollis;Calathus;8780;Calathus circumseptus;Calathus;;2
+222358;Calathus rotundicollis;Calathus;190174;;Calathus;Autres Calathus;1
+190215;Callistus;Callistus;;;;;
+9397;Callistus lunatus;Callistus;;;;;
+190243;Calosoma;Calosoma;;;;;
+8343;Calosoma inquisitor;Calosoma;;;;;
+190328;Carabus;Carabus;;;;;
+8358;Carabus auratus;Carabus;;;;;
+8369;Carabus auronitens;Carabus;;;;;
+223019;Carabus baudii;Carabus;223022;Carabus pedemontanus;Carabus;;2
+223019;Carabus baudii;Carabus;8408;Carabus concolor;Carabus;;2
+223019;Carabus baudii;Carabus;223020;Carabus fairmairei;Carabus;;2
+8379;Carabus cancellatus;Carabus;;;;;
+8381;Carabus convexus;Carabus;;;;;
+8447;Carabus coriaceus;Carabus;;;;;
+251435;Carabus coriaceus coriaceus;Carabus;;;;;
+223029;Carabus depressus;Carabus;;;;;
+223026;Carabus genei;Carabus;;;;;
+8386;Carabus granulatus;Carabus;8356;Carabus arvensis;Carabus;;1
+8391;Carabus hispanus;Carabus;;;;;
+8395;Carabus intricatus;Carabus;;;;;
+8402;Carabus monilis;Carabus;8356;Carabus arvensis;Carabus;;1
+8410;Carabus nemoralis;Carabus;;;;;
+8428;Carabus problematicus;Carabus;8439;Carabus violaceus;Carabus;;1
+8459;Carabus splendens;Carabus;;;;;
+8439;Carabus violaceus;Carabus;8428;Carabus problematicus;Carabus;;1
+8441;Carabus violaceus purpurascens;Carabus;8428;Carabus problematicus;Carabus;;1
+190711;Chlaenius;Chlaenius;;;;;
+9376;Chlaenius chrysocephalus;Chlaenius;190711;;Chlaenius;Autres Chlaenius;2
+9380;Chlaenius nigricornis;Chlaenius;190711;;Chlaenius;Autres Chlaenius;2
+9385;Chlaenius olivieri;Chlaenius;190711;;Chlaenius;Autres Chlaenius;2
+794337;Chlaenius tibialis;Chlaenius;190711;;Chlaenius;Autres Chlaenius;2
+9389;Chlaenius vestitus;Chlaenius;190711;;Chlaenius;Autres Chlaenius;1
+190825;Cicindela;Cicindela;;;;;
+8321;Cicindela campestris;Cicindela;223044;Cicindela maroccana;Cicindela;Dépend de la région;1
+8324;Cicindela gallica;Cicindela;223045;Cicindela sylvicola;Cicindela;;1
+190942;Clivina;Clivina;;;;;
+8549;Clivina collaris;Clivina;8548;Clivina fossor;Clivina;;2
+8548;Clivina fossor;Clivina;8549;Clivina collaris;Clivina;;2
+191388;Cychrus;Cychrus;;;;;
+8347;Cychrus attenuatus;Cychrus;;;;;
+8348;Cychrus caraboides;Cychrus;;;;;
+203281;Cylindera;Cylindera;;;;;
+223037;Cylindera germanica;Cylindera;;;;;
+191439;Cymindis;Cymindis;;;;;
+9167;Cymindis abeillei;Cymindis;191439;;Cymindis;Autres Cymindis;2
+9168;Cymindis axillaris;Cymindis;191439;;Cymindis;Autres Cymindis;2
+9169;Cymindis coadunata;Cymindis;191439;;Cymindis;Autres Cymindis;2
+250868;Cymindis etrusca etrusca;Cymindis;191439;;Cymindis;Autres Cymindis;2
+9170;Cymindis humeralis;Cymindis;191439;;Cymindis;Autres Cymindis;2
+9172;Cymindis scapularis;Cymindis;191439;;Cymindis;Autres Cymindis;2
+9173;Cymindis vaporariorum;Cymindis;191439;;Cymindis;Autres Cymindis;2
+191596;Demetrias;Demetrias;;;;;
+9435;Demetrias atricapillus;Demetrias;222337;Demetrias monostigma;Demetrias;;1
+191677;Diachromus;Diachromus;;;;;
+9287;Diachromus germanus;Diachromus;;;;;
+191983;Drypta;Drypta;;;;;
+9237;Drypta dentata;Drypta;;;;;
+192002;Dyschirius;Dyschirius;;;;;
+794227;Dyschirius aeneus;Dyschirius;192002;;Dyschirius;Autres Dyschirius;2
+8558;Dyschirius globosus;Dyschirius;192002;;Dyschirius;Autres Dyschirius;2
+794235;Dyschirius tristis;Dyschirius;192002;;Dyschirius;Autres Dyschirius;3
+192991;Gynandromorphus;Gynandromorphus;;;;;
+9275;Gynandromorphus etruscus;Gynandromorphus;;;;;
+193094;Harpalus;Harpalus;;;;;
+222449;Harpalus affinis;Harpalus;193094;;Harpalus;Autres Harpalus;2
+9298;Harpalus anxius;Harpalus;193094;;Harpalus;Autres Harpalus;2
+9299;Harpalus atratus;Harpalus;193094;;Harpalus;Autres Harpalus;2
+9300;Harpalus attenuatus;Harpalus;193094;;Harpalus;Autres Harpalus;2
+9303;Harpalus bellieri;Harpalus;193094;;Harpalus;Autres Harpalus;2
+222450;Harpalus cupreus;Harpalus;193094;;Harpalus;Autres Harpalus;2
+222451;Harpalus decipiens;Harpalus;193094;;Harpalus;Autres Harpalus;2
+9304;Harpalus dimidiatus;Harpalus;193094;;Harpalus;Autres Harpalus;2
+222447;Harpalus dispar;Harpalus;193094;;Harpalus;Autres Harpalus;2
+9306;Harpalus distinguendus;Harpalus;193094;;Harpalus;Autres Harpalus;2
+9309;Harpalus honestus;Harpalus;193094;;Harpalus;Autres Harpalus;2
+222455;Harpalus laevipes;Harpalus;193094;;Harpalus;Autres Harpalus;2
+9311;Harpalus latus;Harpalus;193094;;Harpalus;Autres Harpalus;2
+222456;Harpalus luteicornis;Harpalus;193094;;Harpalus;Autres Harpalus;2
+9318;Harpalus neglectus;Harpalus;193094;;Harpalus;Autres Harpalus;2
+9320;Harpalus oblitus;Harpalus;193094;;Harpalus;Autres Harpalus;2
+222448;Harpalus punctatostriatus;Harpalus;193094;;Harpalus;Autres Harpalus;2
+9322;Harpalus punctipennis;Harpalus;193094;;Harpalus;Autres Harpalus;2
+9325;Harpalus pygmaeus;Harpalus;193094;;Harpalus;Autres Harpalus;2
+9327;Harpalus rubripes;Harpalus;193094;;Harpalus;Autres Harpalus;2
+222460;Harpalus rufipalpis;Harpalus;193094;;Harpalus;Autres Harpalus;2
+9310;Harpalus serripes;Harpalus;193094;;Harpalus;Autres Harpalus;2
+222462;Harpalus solitaris;Harpalus;193094;;Harpalus;Autres Harpalus;2
+9315;Harpalus sulphuripes;Harpalus;193094;;Harpalus;Autres Harpalus;2
+9316;Harpalus tardus;Harpalus;193094;;Harpalus;Autres Harpalus;2
+222449;Harpalus affinis;Harpalus;203287;;Cryptophonus;Autres Cryptophonus;1
+9298;Harpalus anxius;Harpalus;203287;;Cryptophonus;Autres Cryptophonus;1
+9299;Harpalus atratus;Harpalus;203287;;Cryptophonus;Autres Cryptophonus;1
+9300;Harpalus attenuatus;Harpalus;203287;;Cryptophonus;Autres Cryptophonus;1
+9303;Harpalus bellieri;Harpalus;203287;;Cryptophonus;Autres Cryptophonus;1
+222450;Harpalus cupreus;Harpalus;203287;;Cryptophonus;Autres Cryptophonus;1
+222451;Harpalus decipiens;Harpalus;203287;;Cryptophonus;Autres Cryptophonus;1
+9304;Harpalus dimidiatus;Harpalus;203287;;Cryptophonus;Autres Cryptophonus;1
+222447;Harpalus dispar;Harpalus;203287;;Cryptophonus;Autres Cryptophonus;1
+9306;Harpalus distinguendus;Harpalus;203287;;Cryptophonus;Autres Cryptophonus;1
+9309;Harpalus honestus;Harpalus;203287;;Cryptophonus;Autres Cryptophonus;1
+222455;Harpalus laevipes;Harpalus;203287;;Cryptophonus;Autres Cryptophonus;1
+9311;Harpalus latus;Harpalus;203287;;Cryptophonus;Autres Cryptophonus;1
+222456;Harpalus luteicornis;Harpalus;203287;;Cryptophonus;Autres Cryptophonus;1
+9318;Harpalus neglectus;Harpalus;203287;;Cryptophonus;Autres Cryptophonus;1
+9320;Harpalus oblitus;Harpalus;203287;;Cryptophonus;Autres Cryptophonus;1
+222448;Harpalus punctatostriatus;Harpalus;203287;;Cryptophonus;Autres Cryptophonus;1
+9322;Harpalus punctipennis;Harpalus;203287;;Cryptophonus;Autres Cryptophonus;1
+9325;Harpalus pygmaeus;Harpalus;203287;;Cryptophonus;Autres Cryptophonus;1
+9327;Harpalus rubripes;Harpalus;203287;;Cryptophonus;Autres Cryptophonus;1
+222460;Harpalus rufipalpis;Harpalus;203287;;Cryptophonus;Autres Cryptophonus;1
+9310;Harpalus serripes;Harpalus;203287;;Cryptophonus;Autres Cryptophonus;1
+222462;Harpalus solitaris;Harpalus;203287;;Cryptophonus;Autres Cryptophonus;1
+9315;Harpalus sulphuripes;Harpalus;203287;;Cryptophonus;Autres Cryptophonus;1
+9316;Harpalus tardus;Harpalus;203287;;Cryptophonus;Autres Cryptophonus;1
+193791;Laemostenus;Laemostenus;;;;;
+222362;Laemostenus angustatus;Laemostenus;193791;;Laemostenus;Autres Laemostenus;2
+222363;Laemostenus carinatus;Laemostenus;193791;;Laemostenus;Autres Laemostenus;2
+8798;Laemostenus janthinus;Laemostenus;193791;;Laemostenus;Autres Laemostenus;2
+222366;Laemostenus oblongus;Laemostenus;193791;;Laemostenus;Autres Laemostenus;2
+730146;Lebiini;;;;;;
+193931;Leistus;Leistus;;;;;
+8496;Leistus ferrugineus;Leistus;;;;;
+8497;Leistus fulvibarbis;Leistus;193931;;Leistus;Autres Leistus;1
+8502;Leistus rufomarginatus;Leistus;193931;;Leistus;Autres Leistus;1
+8503;Leistus spinibarbis;Leistus;193931;;Leistus;Autres Leistus;1
+194120;Licinus;Licinus;;;;;
+222515;Licinus cassideus;Licinus;194120;;Licinus;Autres Licinus;2
+9365;Licinus hoffmannseggi;Licinus;;;;;
+222516;Licinus punctatulus;Licinus;9368;Licinus silphoides;Licinus;;2
+9368;Licinus silphoides;Licinus;222516;Licinus punctatulus;Licinus;;2
+194284;Loricera;Loricera;;;;;
+8540;Loricera pilicornis;Loricera;;;;;
+194730;Microlestes;Microlestes;;;;;
+222330;Microlestes abeillei;Microlestes;194730;;Microlestes;Autres Microlestes (surtout femelles);2
+222332;Microlestes fulvibasis;Microlestes;194730;;Microlestes;Autres Microlestes (surtout femelles);2
+222335;Microlestes luctuosus;Microlestes;194730;;Microlestes;Autres Microlestes (surtout femelles);2
+222336;Microlestes maurus;Microlestes;194730;;Microlestes;Autres Microlestes (surtout femelles);2
+9419;Microlestes minutulus;Microlestes;194730;;Microlestes;Autres Microlestes (surtout femelles);2
+194854;Molops;Molops;;;;;
+9165;Molops piceus;Molops;;;;;
+195094;Nebria;Nebria;;;;;
+8506;Nebria brevicollis;Nebria;8520;Nebria salina;Nebria;;3
+8507;Nebria castanea;Nebria;795210;Nebria picea;Nebria;;3
+8507;Nebria castanea;Nebria;195094;;Nebria;Autres Nebria (Oreonebria);2
+1010250;Nebria lafresnayei;Nebria;195094;;Nebria;Autres Nebria (Nebria);2
+795210;Nebria picea;Nebria;195094;;Nebria;Autres Nebria (Oreonebria);2
+795210;Nebria picea;Nebria;8507;Nebria castanea;Nebria;;3
+8520;Nebria salina;Nebria;8506;Nebria brevicollis;Nebria;;3
+195267;Notiophilus;Notiophilus;;;;;
+223008;Notiophilus aestuans;Notiophilus;195267;;Notiophilus;Autres Notiophilus;2
+223008;Notiophilus aestuans;Notiophilus;8525;Notiophilus aquaticus;Notiophilus;;3
+8525;Notiophilus aquaticus;Notiophilus;223008;Notiophilus aestuans;Notiophilus;;3
+8525;Notiophilus aquaticus;Notiophilus;195267;;Notiophilus;Autres Notiophilus;2
+8526;Notiophilus biguttatus;Notiophilus;195267;;Notiophilus;Autres Notiophilus;1
+8526;Notiophilus biguttatus;Notiophilus;8531;Notiophilus quadripunctatus;Notiophilus;;2
+8526;Notiophilus biguttatus;Notiophilus;8532;Notiophilus rufipes;Notiophilus;;2
+8526;Notiophilus biguttatus;Notiophilus;8533;Notiophilus substriatus;Notiophilus;;2
+223010;Notiophilus germinyi;Notiophilus;195267;;Notiophilus;Autres Notiophilus;1
+223010;Notiophilus germinyi;Notiophilus;8525;Notiophilus aquaticus;Notiophilus;;2
+223010;Notiophilus germinyi;Notiophilus;223008;Notiophilus aestuans;Notiophilus;;2
+223010;Notiophilus germinyi;Notiophilus;8528;Notiophilus palustris;Notiophilus;;3
+8528;Notiophilus palustris;Notiophilus;195267;;Notiophilus;Autres Notiophilus;1
+8528;Notiophilus palustris;Notiophilus;8525;Notiophilus aquaticus;Notiophilus;;2
+8528;Notiophilus palustris;Notiophilus;223008;Notiophilus aestuans;Notiophilus;;2
+8528;Notiophilus palustris;Notiophilus;223010;Notiophilus germinyi;Notiophilus;;3
+8531;Notiophilus quadripunctatus;Notiophilus;195267;;Notiophilus;Autres Notiophilus;1
+8531;Notiophilus quadripunctatus;Notiophilus;8526;Notiophilus biguttatus;Notiophilus;;2
+8531;Notiophilus quadripunctatus;Notiophilus;8532;Notiophilus rufipes;Notiophilus;;1
+8531;Notiophilus quadripunctatus;Notiophilus;8533;Notiophilus substriatus;Notiophilus;;1
+8532;Notiophilus rufipes;Notiophilus;195267;;Notiophilus;Autres Notiophilus;1
+8532;Notiophilus rufipes;Notiophilus;8526;Notiophilus biguttatus;Notiophilus;;2
+8532;Notiophilus rufipes;Notiophilus;8533;Notiophilus substriatus;Notiophilus;;2
+8533;Notiophilus substriatus;Notiophilus;195267;;Notiophilus;Autres Notiophilus;1
+8533;Notiophilus substriatus;Notiophilus;8526;Notiophilus biguttatus;Notiophilus;;2
+8533;Notiophilus substriatus;Notiophilus;8532;Notiophilus rufipes;Notiophilus;;1
+8533;Notiophilus substriatus;Notiophilus;8531;Notiophilus quadripunctatus;Notiophilus;;1
+195495;Ophonus;Ophonus;;;;;
+222473;Ophonus ardosiacus;Ophonus;195495;;Ophonus;Autres Ophonus;2
+222478;Ophonus azureus;Ophonus;195495;;Ophonus;Autres Ophonus;2
+222479;Ophonus cribricollis;Ophonus;195495;;Ophonus;Autres Ophonus;3
+222486;Ophonus laticollis;Ophonus;195495;;Ophonus;Autres Ophonus;3
+222489;Ophonus puncticeps;Ophonus;195495;;Ophonus;Autres Ophonus;3
+222492;Ophonus schaubergerianus;Ophonus;195495;;Ophonus;Autres Ophonus;3
+222482;Ophonus subquadratus;Ophonus;195495;;Ophonus;Autres Ophonus;3
+203294;Oxypselaphus;Oxypselaphus;;;;;
+222374;Oxypselaphus obscurus;Oxypselaphus;;;;;
+203280;Panagaeus;Panagaeus;;;;;
+222532;Panagaeus bipustulatus;Panagaeus;222533;Panagaeus cruxmajor;Panagaeus;;3
+203273;Pangus;Pangus;188756;;Acinopus;;1
+222444;Pangus scaritides;Pangus;188756;;Acinopus;;1
+203314;Paradromius;Paradromius;191963;;Dromius;;1
+222329;Paradromius linearis;Paradromius;222328;Paradromius longiceps;Paradromius;;1
+203298;Paranchus;Paranchus;203396;;Sinechostictus;Autres Sinechostictus;1
+222375;Paranchus albipes;Paranchus;203396;;Sinechostictus;Autres Sinechostictus;1
+203326;Parophonus;Parophonus;195495;;Ophonus;;1
+222441;Parophonus maculicornis;Parophonus;203326;Parophonus mendax;Parophonus;;1
+222441;Parophonus maculicornis;Parophonus;195495;;Ophonus;;1
+222441;Parophonus maculicornis;Parophonus;222468;Semiophonus signaticornis;Semiophonus;;1
+203372;Pedius;Pedius;;;;;
+222538;Pedius longicollis;Pedius;9069;Abacetus salzmanni;Abacetus;;1
+195957;Percus;Percus;;;;;
+9160;Percus corsicus;Percus;;;;;
+9163;Percus reichei;Percus;0;Percus villae;Percus;;2
+222610;Percus strictus;Percus;9161;Percus grandicollis;Percus;;2
+196395;Platynus;Platynus;;;;;
+196385;Platyderus;Platyderus;;;;;
+222352;Platyderus depressus;Platyderus;196385;;Platyderus;Autres Platyderus selon la région;2
+8838;Platynus assimilis;Platynus;;;;;
+203304;Poecilus;Poecilus;;;;;
+222539;Poecilus cupreus;Poecilus;222545;Poecilus kugelanni;Poecilus;;2
+222539;Poecilus cupreus;Poecilus;222541;Poecilus versicolor;Poecilus;;3
+222545;Poecilus kugelanni;Poecilus;203304;;Poecilus;Autres Poecilus;2
+222545;Poecilus kugelanni;Poecilus;795439;Poecilus sericeus desbrochersi;Poecilus;;3
+222546;Poecilus lepidus;Poecilus;203304;;Poecilus;Autres Poecilus;2
+250931;Poecilus lepidus gressorius;Poecilus;203304;;Poecilus;Autres Poecilus;2
+222550;Poecilus purpurascens;Poecilus;196898;;Pterostichus;;3
+222547;Poecilus sericeus;Poecilus;222545;Poecilus kugelanni;Poecilus;;3
+222547;Poecilus sericeus;Poecilus;203304;;Poecilus;Autres Poecilus;2
+795439;Poecilus sericeus desbrochersi;Poecilus;222545;Poecilus kugelanni;Poecilus;;3
+795439;Poecilus sericeus desbrochersi;Poecilus;203304;;Poecilus;Autres Poecilus;2
+222541;Poecilus versicolor;Poecilus;222545;Poecilus kugelanni;Poecilus;;2
+222541;Poecilus versicolor;Poecilus;222539;Poecilus cupreus;Poecilus;;3
+203307;Polistichus;Polistichus;;;;;
+222291;Polistichus connexus;Polistichus;222292;Polistichus fasciolatus;Polistichus;;1
+203363;Pseudoophonus;Pseudoophonus;193094;;Harpalus;;1
+222465;Pseudoophonus griseus;Pseudoophonus;203363;;Pseudoophonus;Autres Pseudoophonus;2
+222465;Pseudoophonus griseus;Pseudoophonus;193094;;Harpalus;Autres Harpalus;1
+222466;Pseudoophonus rufipes;Pseudoophonus;203363;;Pseudoophonus;Autres Pseudoophonus;1
+222466;Pseudoophonus rufipes;Pseudoophonus;193094;;Harpalus;Autres Harpalus;1
+196898;Pterostichus;Pterostichus;;;;;
+222563;Pterostichus abaxoides;Pterostichus;196898;;Pterostichus;Autres Pterostichus (Cryobius);2
+9073;Pterostichus ambiguus;Pterostichus;196898;;Pterostichus;Autres Pterostichus (Pterostichus);2
+222559;Pterostichus anthracinus;Pterostichus;222560;Pterostichus nigrita;Pterostichus;;3
+222559;Pterostichus anthracinus;Pterostichus;196898;;Pterostichus;Autres Pterostichus (Pseudomaseus);2
+9112;Pterostichus bicolor;Pterostichus;222604;Pterostichus xatartii;Pterostichus;;2
+9112;Pterostichus bicolor;Pterostichus;196898;;Pterostichus;Autres Pterostichus (Oreophilus);1
+222582;Pterostichus burmeisteri;Pterostichus;;;;;
+222568;Pterostichus colasi;Pterostichus;196898;;Pterostichus;Autres Pterostichus (Cryobius);2
+9078;Pterostichus cristatus;Pterostichus;196898;;Pterostichus;Autres Pterostichus (Pterostichus);2
+9085;Pterostichus diligens;Pterostichus;222552;Pterostichus ovoideus;Pterostichus;;2
+9085;Pterostichus diligens;Pterostichus;196898;;Pterostichus;Autres Pterostichus;1
+9085;Pterostichus diligens;Pterostichus;9103;Pterostichus strenuus;Pterostichus;;3
+250999;Pterostichus dufourii dufourii;Pterostichus;196898;;Pterostichus;Autres Pterostichus;3
+9114;Pterostichus externepunctatus;Pterostichus;196898;;Pterostichus;Autres Pterostichus (Oreophilus);1
+222585;Pterostichus funestes;Pterostichus;196898;;Pterostichus;Autres Pterostichus (Pterostichus);3
+222578;Pterostichus gallega;Pterostichus;222580;Pterostichus validus;Pterostichus;Dépend de la région;2
+222578;Pterostichus gallega;Pterostichus;222579;Pterostichus madidus;Pterostichus;;2
+9095;Pterostichus honnoratii;Pterostichus;196898;;Pterostichus;Autres Pterostichus (Pterostichus);2
+222575;Pterostichus infimus;Pterostichus;196898;;Pterostichus;Autres Pterostichus (Cryobius);2
+222556;Pterostichus macer;Pterostichus;196898;;Pterostichus;Autres Pterostichus;2
+222579;Pterostichus madidus;Pterostichus;222578;Pterostichus gallega;Pterostichus;Dépend de la région;2
+222579;Pterostichus madidus;Pterostichus;222580;Pterostichus validus;Pterostichus;Dépend de la région;2
+222558;Pterostichus melanarius;Pterostichus;196898;;Pterostichus;Autres Pterostichus;1
+9089;Pterostichus minor;Pterostichus;196898;;Pterostichus;Autres Pterostichus (Pseudomaseus);2
+9119;Pterostichus morio;Pterostichus;196898;;Pterostichus;Autres Pterostichus (Oreophilus);2
+251011;Pterostichus morio baudii;Pterostichus;196898;;Pterostichus;Autres Pterostichus (Oreophilus);2
+222602;Pterostichus multipunctatus;Pterostichus;196898;;Pterostichus;Autres Pterostichus (Oreophilus);1
+222557;Pterostichus niger;Pterostichus;196898;;Pterostichus;Autres Pterostichus;1
+222560;Pterostichus nigrita;Pterostichus;196898;;Pterostichus;Autres Pterostichus (Pseudomaseus);2
+222560;Pterostichus nigrita;Pterostichus;222559;Pterostichus anthracinus;Pterostichus;;3
+9100;Pterostichus oblongopunctatus;Pterostichus;196898;;Pterostichus;Autres Pterostichus;1
+222552;Pterostichus ovoideus;Pterostichus;196898;;Pterostichus;Autres Pterostichus;1
+222552;Pterostichus ovoideus;Pterostichus;9103;Pterostichus strenuus;Pterostichus;;2
+222552;Pterostichus ovoideus;Pterostichus;9085;Pterostichus diligens;Pterostichus;;2
+222569;Pterostichus pumilio;Pterostichus;196898;;Pterostichus;Autres Pterostichus (Cryobius);2
+222606;Pterostichus selmanni;Pterostichus;196898;;Pterostichus;Autres Pterostichus;1
+9103;Pterostichus strenuus;Pterostichus;196898;;Pterostichus;Autres Pterostichus;1
+9103;Pterostichus strenuus;Pterostichus;222552;Pterostichus ovoideus;Pterostichus;;2
+9103;Pterostichus strenuus;Pterostichus;9085;Pterostichus diligens;Pterostichus;;3
+222570;Pterostichus unctulatus;Pterostichus;196898;;Pterostichus;Autres Pterostichus (Cryobius);2
+9136;Pterostichus vernalis;Pterostichus;196898;;Pterostichus;Autres Pterostichus;1
+9136;Pterostichus vernalis;Pterostichus;9134;Pterostichus cursor;Pterostichus;;1
+222604;Pterostichus xatartii;Pterostichus;196898;;Pterostichus;Autres Pterostichus (Oreophilus);1
+222604;Pterostichus xatartii;Pterostichus;9112;Pterostichus bicolor;Pterostichus;;2
+203475;Scybalicus;Scybalicus;195495;;Ophonus;Divers Ophonus;1
+222412;Scybalicus oblongiusculus;Scybalicus;195495;;Ophonus;Divers Ophonus;1
+203460;Semiophonus;Semiophonus;;;;;
+222468;Semiophonus signaticornis;Semiophonus;195495;;Ophonus;;1
+222468;Semiophonus signaticornis;Semiophonus;203326;;Parophonus;;1
+197957;Stenolophus;Stenolophus;;;;;
+9338;Stenolophus teutonus;Stenolophus;;;;;
+198020;Stomis;Stomis;;;;;
+9066;Stomis pumicatus;Stomis;;;;;
+198153;Syntomus;Syntomus;;;;;
+8239;Syntomus foveatus;Syntomus;198153;;Syntomus;Autres Syntomus;2
+222315;Syntomus obscuroguttatus;Syntomus;198153;;Syntomus;Autres Syntomus;1
+8237;Syntomus truncatellus;Syntomus;198153;;Syntomus;Autres Syntomus;2
+198155;Synuchus;Synuchus;195409;;Olisthopus;;1
+222351;Synuchus vivalis;Synuchus;195409;;Olisthopus;;1
+198181;Tachys;Tachys;;;;;
+8700;Tachys bistriatus;Tachys;198181;;Tachys;Autres Tachys;2
+198185;Tachyura;Tachyura;;;;;
+222829;Tachyura parvula;Tachyura;198185;;Tachyura;Autres Tachyura;2
+703278;Trechinae;;;;;;
+198563;Trechus;Trechus;;;;;
+8728;Trechus obtusus;Trechus;198563;;Trechus;Autres Trechus;1
+8728;Trechus obtusus;Trechus;8729;Trechus quadristriatus;Trechus;;3
+276748;Trechus pertyi;Trechus;198563;;Trechus;Autres Trechus;1
+8729;Trechus quadristriatus;Trechus;8728;Trechus obtusus;Trechus;;3
+8729;Trechus quadristriatus;Trechus;198563;;Trechus;Autres Trechus;1
+8730;Trechus rufulus;Trechus;198563;;Trechus;Autres Trechus;1
+198622;Trichotichnus;Trichotichnus;;;;;
+8253;Trichotichnus laevicollis;Trichotichnus;198622;;Trichotichnus;Autres Trichotichnus;2
+8254;Trichotichnus nitens;Trichotichnus;198622;;Trichotichnus;Autres Trichotichnus;2
+199110;Zabrus;Zabrus;;;;;
+222616;Zabrus tenebrioides;Zabrus;;;;;
